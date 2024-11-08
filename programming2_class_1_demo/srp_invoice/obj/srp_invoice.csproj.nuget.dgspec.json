@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/srp_invoice/srp_invoice.csproj": {}
+    "/Users/danielbreczinski/Code/inholland/programming_2/programming_2_demo/programming2_class_1_demo/srp_invoice/srp_invoice.csproj": {}
   },
   "projects": {
-    "/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/srp_invoice/srp_invoice.csproj": {
+    "/Users/danielbreczinski/Code/inholland/programming_2/programming_2_demo/programming2_class_1_demo/srp_invoice/srp_invoice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/srp_invoice/srp_invoice.csproj",
+        "projectUniqueName": "/Users/danielbreczinski/Code/inholland/programming_2/programming_2_demo/programming2_class_1_demo/srp_invoice/srp_invoice.csproj",
         "projectName": "srp_invoice",
-        "projectPath": "/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/srp_invoice/srp_invoice.csproj",
+        "projectPath": "/Users/danielbreczinski/Code/inholland/programming_2/programming_2_demo/programming2_class_1_demo/srp_invoice/srp_invoice.csproj",
         "packagesPath": "/Users/danielbreczinski/.nuget/packages/",
-        "outputPath": "/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/srp_invoice/obj/",
+        "outputPath": "/Users/danielbreczinski/Code/inholland/programming_2/programming_2_demo/programming2_class_1_demo/srp_invoice/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/danielbreczinski/.nuget/NuGet/NuGet.Config"

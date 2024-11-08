@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/soc_log/soc_log.csproj": {}
+    "/Users/danielbreczinski/Code/inholland/programming_2/programming_2_demo/programming2_class_1_demo/soc_log/soc_log.csproj": {}
   },
   "projects": {
-    "/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/soc_log/soc_log.csproj": {
+    "/Users/danielbreczinski/Code/inholland/programming_2/programming_2_demo/programming2_class_1_demo/soc_log/soc_log.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/soc_log/soc_log.csproj",
+        "projectUniqueName": "/Users/danielbreczinski/Code/inholland/programming_2/programming_2_demo/programming2_class_1_demo/soc_log/soc_log.csproj",
         "projectName": "soc_log",
-        "projectPath": "/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/soc_log/soc_log.csproj",
+        "projectPath": "/Users/danielbreczinski/Code/inholland/programming_2/programming_2_demo/programming2_class_1_demo/soc_log/soc_log.csproj",
         "packagesPath": "/Users/danielbreczinski/.nuget/packages/",
-        "outputPath": "/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/soc_log/obj/",
+        "outputPath": "/Users/danielbreczinski/Code/inholland/programming_2/programming_2_demo/programming2_class_1_demo/soc_log/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/danielbreczinski/.nuget/NuGet/NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/to_string/to_string.csproj": {}
+    "/Users/danielbreczinski/Code/inholland/programming_2/programming_2_demo/programming2_class_1_demo/to_string/to_string.csproj": {}
   },
   "projects": {
-    "/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/to_string/to_string.csproj": {
+    "/Users/danielbreczinski/Code/inholland/programming_2/programming_2_demo/programming2_class_1_demo/to_string/to_string.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/to_string/to_string.csproj",
+        "projectUniqueName": "/Users/danielbreczinski/Code/inholland/programming_2/programming_2_demo/programming2_class_1_demo/to_string/to_string.csproj",
         "projectName": "to_string",
-        "projectPath": "/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/to_string/to_string.csproj",
+        "projectPath": "/Users/danielbreczinski/Code/inholland/programming_2/programming_2_demo/programming2_class_1_demo/to_string/to_string.csproj",
         "packagesPath": "/Users/danielbreczinski/.nuget/packages/",
-        "outputPath": "/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/to_string/obj/",
+        "outputPath": "/Users/danielbreczinski/Code/inholland/programming_2/programming_2_demo/programming2_class_1_demo/to_string/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/danielbreczinski/.nuget/NuGet/NuGet.Config"
