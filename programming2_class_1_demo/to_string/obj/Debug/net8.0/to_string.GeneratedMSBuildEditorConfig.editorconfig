@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = to_string
+build_property.ProjectDir = /Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/to_string/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

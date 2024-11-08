@@ -1,0 +1,14 @@
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/soc_todo_app/bin/Debug/net8.0/soc_todo_app
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/soc_todo_app/bin/Debug/net8.0/soc_todo_app.deps.json
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/soc_todo_app/bin/Debug/net8.0/soc_todo_app.runtimeconfig.json
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/soc_todo_app/bin/Debug/net8.0/soc_todo_app.dll
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/soc_todo_app/bin/Debug/net8.0/soc_todo_app.pdb
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/soc_todo_app/obj/Debug/net8.0/soc_todo_app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/soc_todo_app/obj/Debug/net8.0/soc_todo_app.AssemblyInfoInputs.cache
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/soc_todo_app/obj/Debug/net8.0/soc_todo_app.AssemblyInfo.cs
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/soc_todo_app/obj/Debug/net8.0/soc_todo_app.csproj.CoreCompileInputs.cache
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/soc_todo_app/obj/Debug/net8.0/soc_todo_app.dll
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/soc_todo_app/obj/Debug/net8.0/refint/soc_todo_app.dll
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/soc_todo_app/obj/Debug/net8.0/soc_todo_app.pdb
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/soc_todo_app/obj/Debug/net8.0/soc_todo_app.genruntimeconfig.cache
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/soc_todo_app/obj/Debug/net8.0/ref/soc_todo_app.dll

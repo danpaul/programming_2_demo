@@ -1,0 +1,14 @@
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/to_string/bin/Debug/net8.0/to_string
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/to_string/bin/Debug/net8.0/to_string.deps.json
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/to_string/bin/Debug/net8.0/to_string.runtimeconfig.json
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/to_string/bin/Debug/net8.0/to_string.dll
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/to_string/bin/Debug/net8.0/to_string.pdb
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/to_string/obj/Debug/net8.0/to_string.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/to_string/obj/Debug/net8.0/to_string.AssemblyInfoInputs.cache
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/to_string/obj/Debug/net8.0/to_string.AssemblyInfo.cs
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/to_string/obj/Debug/net8.0/to_string.csproj.CoreCompileInputs.cache
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/to_string/obj/Debug/net8.0/to_string.dll
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/to_string/obj/Debug/net8.0/refint/to_string.dll
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/to_string/obj/Debug/net8.0/to_string.pdb
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/to_string/obj/Debug/net8.0/to_string.genruntimeconfig.cache
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/to_string/obj/Debug/net8.0/ref/to_string.dll

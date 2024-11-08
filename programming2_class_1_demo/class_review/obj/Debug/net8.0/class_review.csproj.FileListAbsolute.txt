@@ -1,0 +1,28 @@
+C:/Users/Daniel.Breczinski/OneDrive - Hogeschool Inholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/class_review/bin/Debug/net8.0/class_review.exe
+C:/Users/Daniel.Breczinski/OneDrive - Hogeschool Inholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/class_review/bin/Debug/net8.0/class_review.deps.json
+C:/Users/Daniel.Breczinski/OneDrive - Hogeschool Inholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/class_review/bin/Debug/net8.0/class_review.runtimeconfig.json
+C:/Users/Daniel.Breczinski/OneDrive - Hogeschool Inholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/class_review/bin/Debug/net8.0/class_review.dll
+C:/Users/Daniel.Breczinski/OneDrive - Hogeschool Inholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/class_review/bin/Debug/net8.0/class_review.pdb
+C:/Users/Daniel.Breczinski/OneDrive - Hogeschool Inholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/class_review/obj/Debug/net8.0/class_review.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Daniel.Breczinski/OneDrive - Hogeschool Inholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/class_review/obj/Debug/net8.0/class_review.AssemblyInfoInputs.cache
+C:/Users/Daniel.Breczinski/OneDrive - Hogeschool Inholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/class_review/obj/Debug/net8.0/class_review.AssemblyInfo.cs
+C:/Users/Daniel.Breczinski/OneDrive - Hogeschool Inholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/class_review/obj/Debug/net8.0/class_review.csproj.CoreCompileInputs.cache
+C:/Users/Daniel.Breczinski/OneDrive - Hogeschool Inholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/class_review/obj/Debug/net8.0/class_review.dll
+C:/Users/Daniel.Breczinski/OneDrive - Hogeschool Inholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/class_review/obj/Debug/net8.0/refint/class_review.dll
+C:/Users/Daniel.Breczinski/OneDrive - Hogeschool Inholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/class_review/obj/Debug/net8.0/class_review.pdb
+C:/Users/Daniel.Breczinski/OneDrive - Hogeschool Inholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/class_review/obj/Debug/net8.0/class_review.genruntimeconfig.cache
+C:/Users/Daniel.Breczinski/OneDrive - Hogeschool Inholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/class_review/obj/Debug/net8.0/ref/class_review.dll
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/class_review/bin/Debug/net8.0/class_review
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/class_review/bin/Debug/net8.0/class_review.deps.json
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/class_review/bin/Debug/net8.0/class_review.runtimeconfig.json
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/class_review/bin/Debug/net8.0/class_review.dll
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/class_review/bin/Debug/net8.0/class_review.pdb
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/class_review/obj/Debug/net8.0/class_review.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/class_review/obj/Debug/net8.0/class_review.AssemblyInfoInputs.cache
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/class_review/obj/Debug/net8.0/class_review.AssemblyInfo.cs
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/class_review/obj/Debug/net8.0/class_review.csproj.CoreCompileInputs.cache
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/class_review/obj/Debug/net8.0/class_review.dll
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/class_review/obj/Debug/net8.0/refint/class_review.dll
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/class_review/obj/Debug/net8.0/class_review.pdb
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/class_review/obj/Debug/net8.0/class_review.genruntimeconfig.cache
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/class_review/obj/Debug/net8.0/ref/class_review.dll

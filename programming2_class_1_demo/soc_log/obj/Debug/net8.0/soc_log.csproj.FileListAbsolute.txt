@@ -1,0 +1,14 @@
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/soc_log/bin/Debug/net8.0/soc_log
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/soc_log/bin/Debug/net8.0/soc_log.deps.json
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/soc_log/bin/Debug/net8.0/soc_log.runtimeconfig.json
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/soc_log/bin/Debug/net8.0/soc_log.dll
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/soc_log/bin/Debug/net8.0/soc_log.pdb
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/soc_log/obj/Debug/net8.0/soc_log.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/soc_log/obj/Debug/net8.0/soc_log.AssemblyInfoInputs.cache
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/soc_log/obj/Debug/net8.0/soc_log.AssemblyInfo.cs
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/soc_log/obj/Debug/net8.0/soc_log.csproj.CoreCompileInputs.cache
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/soc_log/obj/Debug/net8.0/soc_log.dll
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/soc_log/obj/Debug/net8.0/refint/soc_log.dll
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/soc_log/obj/Debug/net8.0/soc_log.pdb
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/soc_log/obj/Debug/net8.0/soc_log.genruntimeconfig.cache
+/Users/danielbreczinski/Library/CloudStorage/OneDrive-HogeschoolInholland/Main/Classes/Programming2/2425/weeks/01/programming2_class_1_demo/soc_log/obj/Debug/net8.0/ref/soc_log.dll
