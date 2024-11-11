@@ -1,0 +1,15 @@
+C:\Code\programming_2_demo\programming2_class_1_demo\srp_example_book\bin\Debug\net8.0\srp_example_book.exe
+C:\Code\programming_2_demo\programming2_class_1_demo\srp_example_book\bin\Debug\net8.0\srp_example_book.deps.json
+C:\Code\programming_2_demo\programming2_class_1_demo\srp_example_book\bin\Debug\net8.0\srp_example_book.runtimeconfig.json
+C:\Code\programming_2_demo\programming2_class_1_demo\srp_example_book\bin\Debug\net8.0\srp_example_book.dll
+C:\Code\programming_2_demo\programming2_class_1_demo\srp_example_book\bin\Debug\net8.0\srp_example_book.pdb
+C:\Code\programming_2_demo\programming2_class_1_demo\srp_example_book\obj\Debug\net8.0\srp_example_book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\programming_2_demo\programming2_class_1_demo\srp_example_book\obj\Debug\net8.0\srp_example_book.AssemblyInfoInputs.cache
+C:\Code\programming_2_demo\programming2_class_1_demo\srp_example_book\obj\Debug\net8.0\srp_example_book.AssemblyInfo.cs
+C:\Code\programming_2_demo\programming2_class_1_demo\srp_example_book\obj\Debug\net8.0\srp_example_book.csproj.CoreCompileInputs.cache
+C:\Code\programming_2_demo\programming2_class_1_demo\srp_example_book\obj\Debug\net8.0\srp_example_book.sourcelink.json
+C:\Code\programming_2_demo\programming2_class_1_demo\srp_example_book\obj\Debug\net8.0\srp_example_book.dll
+C:\Code\programming_2_demo\programming2_class_1_demo\srp_example_book\obj\Debug\net8.0\refint\srp_example_book.dll
+C:\Code\programming_2_demo\programming2_class_1_demo\srp_example_book\obj\Debug\net8.0\srp_example_book.pdb
+C:\Code\programming_2_demo\programming2_class_1_demo\srp_example_book\obj\Debug\net8.0\srp_example_book.genruntimeconfig.cache
+C:\Code\programming_2_demo\programming2_class_1_demo\srp_example_book\obj\Debug\net8.0\ref\srp_example_book.dll

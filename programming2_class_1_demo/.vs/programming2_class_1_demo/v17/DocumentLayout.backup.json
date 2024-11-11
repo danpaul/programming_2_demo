@@ -3,64 +3,20 @@
   "WorkspaceRootPath": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6E9CFB04-6329-49DB-8C19-CDE1BD2069C0}|soc_todo_app\\soc_todo_app.csproj|c:\\code\\programming_2_demo\\programming2_class_1_demo\\soc_todo_app\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E9CFB04-6329-49DB-8C19-CDE1BD2069C0}|soc_todo_app\\soc_todo_app.csproj|solutionrelative:soc_todo_app\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D9E8EC7-B934-4B46-B8B8-1DECEA6F41E0}|srp_invoice\\srp_invoice.csproj|c:\\code\\programming_2_demo\\programming2_class_1_demo\\srp_invoice\\invoicesrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D9E8EC7-B934-4B46-B8B8-1DECEA6F41E0}|srp_invoice\\srp_invoice.csproj|solutionrelative:srp_invoice\\invoicesrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F3FB7D3-A166-4C17-AFCC-57C9F101F53C}|class_review\\class_review.csproj|c:\\code\\programming_2_demo\\programming2_class_1_demo\\class_review\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F3FB7D3-A166-4C17-AFCC-57C9F101F53C}|class_review\\class_review.csproj|solutionrelative:class_review\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F3FB7D3-A166-4C17-AFCC-57C9F101F53C}|class_review\\class_review.csproj|c:\\code\\programming_2_demo\\programming2_class_1_demo\\class_review\\playerprimary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F3FB7D3-A166-4C17-AFCC-57C9F101F53C}|class_review\\class_review.csproj|solutionrelative:class_review\\playerprimary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E9CFB04-6329-49DB-8C19-CDE1BD2069C0}|soc_todo_app\\soc_todo_app.csproj|c:\\code\\programming_2_demo\\programming2_class_1_demo\\soc_todo_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9CFB04-6329-49DB-8C19-CDE1BD2069C0}|soc_todo_app\\soc_todo_app.csproj|solutionrelative:soc_todo_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF15393C-D58C-49CA-B7A9-A1AA7DAD40A7}|soc_log\\soc_log.csproj|c:\\code\\programming_2_demo\\programming2_class_1_demo\\soc_log\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF15393C-D58C-49CA-B7A9-A1AA7DAD40A7}|soc_log\\soc_log.csproj|solutionrelative:soc_log\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E9CFB04-6329-49DB-8C19-CDE1BD2069C0}|soc_todo_app\\soc_todo_app.csproj|c:\\code\\programming_2_demo\\programming2_class_1_demo\\soc_todo_app\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E9CFB04-6329-49DB-8C19-CDE1BD2069C0}|soc_todo_app\\soc_todo_app.csproj|solutionrelative:soc_todo_app\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E9CFB04-6329-49DB-8C19-CDE1BD2069C0}|soc_todo_app\\soc_todo_app.csproj|c:\\code\\programming_2_demo\\programming2_class_1_demo\\soc_todo_app\\todoui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E9CFB04-6329-49DB-8C19-CDE1BD2069C0}|soc_todo_app\\soc_todo_app.csproj|solutionrelative:soc_todo_app\\todoui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E9CFB04-6329-49DB-8C19-CDE1BD2069C0}|soc_todo_app\\soc_todo_app.csproj|c:\\code\\programming_2_demo\\programming2_class_1_demo\\soc_todo_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E9CFB04-6329-49DB-8C19-CDE1BD2069C0}|soc_todo_app\\soc_todo_app.csproj|solutionrelative:soc_todo_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42B8BCBB-BA6C-47F8-9387-CE44163BDB77}|srp_example_book\\srp_example_book.csproj|c:\\code\\programming_2_demo\\programming2_class_1_demo\\srp_example_book\\booksrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42B8BCBB-BA6C-47F8-9387-CE44163BDB77}|srp_example_book\\srp_example_book.csproj|solutionrelative:srp_example_book\\booksrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D9E8EC7-B934-4B46-B8B8-1DECEA6F41E0}|srp_invoice\\srp_invoice.csproj|c:\\code\\programming_2_demo\\programming2_class_1_demo\\srp_invoice\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D9E8EC7-B934-4B46-B8B8-1DECEA6F41E0}|srp_invoice\\srp_invoice.csproj|solutionrelative:srp_invoice\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E522C586-26EC-41FE-984E-DE6A565B1670}|to_string\\to_string.csproj|c:\\code\\programming_2_demo\\programming2_class_1_demo\\to_string\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E522C586-26EC-41FE-984E-DE6A565B1670}|to_string\\to_string.csproj|solutionrelative:to_string\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E522C586-26EC-41FE-984E-DE6A565B1670}|to_string\\to_string.csproj|c:\\code\\programming_2_demo\\programming2_class_1_demo\\to_string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E522C586-26EC-41FE-984E-DE6A565B1670}|to_string\\to_string.csproj|solutionrelative:to_string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42B8BCBB-BA6C-47F8-9387-CE44163BDB77}|srp_example_book\\srp_example_book.csproj|c:\\code\\programming_2_demo\\programming2_class_1_demo\\srp_example_book\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42B8BCBB-BA6C-47F8-9387-CE44163BDB77}|srp_example_book\\srp_example_book.csproj|solutionrelative:srp_example_book\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF15393C-D58C-49CA-B7A9-A1AA7DAD40A7}|soc_log\\soc_log.csproj|c:\\code\\programming_2_demo\\programming2_class_1_demo\\soc_log\\logview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF15393C-D58C-49CA-B7A9-A1AA7DAD40A7}|soc_log\\soc_log.csproj|solutionrelative:soc_log\\logview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF15393C-D58C-49CA-B7A9-A1AA7DAD40A7}|soc_log\\soc_log.csproj|c:\\code\\programming_2_demo\\programming2_class_1_demo\\soc_log\\logrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF15393C-D58C-49CA-B7A9-A1AA7DAD40A7}|soc_log\\soc_log.csproj|solutionrelative:soc_log\\logrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF15393C-D58C-49CA-B7A9-A1AA7DAD40A7}|soc_log\\soc_log.csproj|c:\\code\\programming_2_demo\\programming2_class_1_demo\\soc_log\\logview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF15393C-D58C-49CA-B7A9-A1AA7DAD40A7}|soc_log\\soc_log.csproj|solutionrelative:soc_log\\logview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF15393C-D58C-49CA-B7A9-A1AA7DAD40A7}|soc_log\\soc_log.csproj|c:\\code\\programming_2_demo\\programming2_class_1_demo\\soc_log\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,128 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PlayerPrimary.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\class_review\\PlayerPrimary.cs",
-              "RelativeDocumentMoniker": "class_review\\PlayerPrimary.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\class_review\\PlayerPrimary.cs",
-              "RelativeToolTip": "class_review\\PlayerPrimary.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T08:27:27.288Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\class_review\\Player.cs",
-              "RelativeDocumentMoniker": "class_review\\Player.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\class_review\\Player.cs",
-              "RelativeToolTip": "class_review\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T08:27:03.358Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TodoList.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\soc_todo_app\\TodoList.cs",
-              "RelativeDocumentMoniker": "soc_todo_app\\TodoList.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\soc_todo_app\\TodoList.cs",
-              "RelativeToolTip": "soc_todo_app\\TodoList.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T08:25:24.009Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TodoItem.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\soc_todo_app\\TodoItem.cs",
-              "RelativeDocumentMoniker": "soc_todo_app\\TodoItem.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\soc_todo_app\\TodoItem.cs",
-              "RelativeToolTip": "soc_todo_app\\TodoItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T08:24:58.427Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "InvoiceSRP.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\srp_invoice\\InvoiceSRP.cs",
-              "RelativeDocumentMoniker": "srp_invoice\\InvoiceSRP.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\srp_invoice\\InvoiceSRP.cs*",
-              "RelativeToolTip": "srp_invoice\\InvoiceSRP.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T08:22:50.79Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Invoice.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\srp_invoice\\Invoice.cs",
-              "RelativeDocumentMoniker": "srp_invoice\\Invoice.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\srp_invoice\\Invoice.cs",
-              "RelativeToolTip": "srp_invoice\\Invoice.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T08:21:36.525Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BookSRP.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\srp_example_book\\BookSRP.cs",
-              "RelativeDocumentMoniker": "srp_example_book\\BookSRP.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\srp_example_book\\BookSRP.cs",
-              "RelativeToolTip": "srp_example_book\\BookSRP.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T08:19:46.975Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\srp_example_book\\Book.cs",
-              "RelativeDocumentMoniker": "srp_example_book\\Book.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\srp_example_book\\Book.cs",
-              "RelativeToolTip": "srp_example_book\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T08:19:00.083Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TodoUI.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\soc_todo_app\\TodoUI.cs",
-              "RelativeDocumentMoniker": "soc_todo_app\\TodoUI.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\soc_todo_app\\TodoUI.cs",
-              "RelativeToolTip": "soc_todo_app\\TodoUI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T08:17:57.168Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\soc_todo_app\\Program.cs",
               "RelativeDocumentMoniker": "soc_todo_app\\Program.cs",
@@ -203,85 +42,59 @@
               "RelativeToolTip": "soc_todo_app\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T08:17:58.659Z",
+              "WhenOpened": "2024-11-11T11:41:24.684Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "LogRepository.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\soc_log\\LogRepository.cs",
-              "RelativeDocumentMoniker": "soc_log\\LogRepository.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\soc_log\\LogRepository.cs",
-              "RelativeToolTip": "soc_log\\LogRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T08:17:46.182Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 2,
               "Title": "LogView.cs",
               "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\soc_log\\LogView.cs",
               "RelativeDocumentMoniker": "soc_log\\LogView.cs",
               "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\soc_log\\LogView.cs",
               "RelativeToolTip": "soc_log\\LogView.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwCYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T08:17:39.726Z",
+              "WhenOpened": "2024-11-11T11:31:14.263Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\to_string\\Employee.cs",
-              "RelativeDocumentMoniker": "to_string\\Employee.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\to_string\\Employee.cs",
-              "RelativeToolTip": "to_string\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABoAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "LogRepository.cs",
+              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\soc_log\\LogRepository.cs",
+              "RelativeDocumentMoniker": "soc_log\\LogRepository.cs",
+              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\soc_log\\LogRepository.cs",
+              "RelativeToolTip": "soc_log\\LogRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T08:17:28.862Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\to_string\\Program.cs",
-              "RelativeDocumentMoniker": "to_string\\Program.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\to_string\\Program.cs",
-              "RelativeToolTip": "to_string\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T08:17:21.901Z",
+              "WhenOpened": "2024-11-11T11:31:41.9Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\soc_log\\Program.cs",
-              "RelativeDocumentMoniker": "soc_log\\Program.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\soc_log\\Program.cs",
-              "RelativeToolTip": "soc_log\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T08:17:00.142Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "Log.cs",
               "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\soc_log\\Log.cs",
               "RelativeDocumentMoniker": "soc_log\\Log.cs",
               "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\soc_log\\Log.cs",
               "RelativeToolTip": "soc_log\\Log.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T08:17:03.616Z",
+              "WhenOpened": "2024-11-11T11:30:42.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\soc_log\\Program.cs",
+              "RelativeDocumentMoniker": "soc_log\\Program.cs",
+              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\soc_log\\Program.cs",
+              "RelativeToolTip": "soc_log\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAwAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:30:29.287Z",
               "EditorCaption": ""
             }
           ]

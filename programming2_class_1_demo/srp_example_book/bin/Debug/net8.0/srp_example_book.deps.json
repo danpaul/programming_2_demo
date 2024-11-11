@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "srp_example_book/1.0.0": {
+        "runtime": {
+          "srp_example_book.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "srp_example_book/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

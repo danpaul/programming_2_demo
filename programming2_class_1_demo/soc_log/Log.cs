@@ -2,6 +2,8 @@ using System;
 
 namespace soc_log;
 
+// handles modeling the log
+
 public enum LogLevel
 {
     info, warning, error

@@ -1,0 +1,15 @@
+C:\Code\programming_2_demo\programming2_class_1_demo\srp_invoice\bin\Debug\net8.0\srp_invoice.exe
+C:\Code\programming_2_demo\programming2_class_1_demo\srp_invoice\bin\Debug\net8.0\srp_invoice.deps.json
+C:\Code\programming_2_demo\programming2_class_1_demo\srp_invoice\bin\Debug\net8.0\srp_invoice.runtimeconfig.json
+C:\Code\programming_2_demo\programming2_class_1_demo\srp_invoice\bin\Debug\net8.0\srp_invoice.dll
+C:\Code\programming_2_demo\programming2_class_1_demo\srp_invoice\bin\Debug\net8.0\srp_invoice.pdb
+C:\Code\programming_2_demo\programming2_class_1_demo\srp_invoice\obj\Debug\net8.0\srp_invoice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\programming_2_demo\programming2_class_1_demo\srp_invoice\obj\Debug\net8.0\srp_invoice.AssemblyInfoInputs.cache
+C:\Code\programming_2_demo\programming2_class_1_demo\srp_invoice\obj\Debug\net8.0\srp_invoice.AssemblyInfo.cs
+C:\Code\programming_2_demo\programming2_class_1_demo\srp_invoice\obj\Debug\net8.0\srp_invoice.csproj.CoreCompileInputs.cache
+C:\Code\programming_2_demo\programming2_class_1_demo\srp_invoice\obj\Debug\net8.0\srp_invoice.sourcelink.json
+C:\Code\programming_2_demo\programming2_class_1_demo\srp_invoice\obj\Debug\net8.0\srp_invoice.dll
+C:\Code\programming_2_demo\programming2_class_1_demo\srp_invoice\obj\Debug\net8.0\refint\srp_invoice.dll
+C:\Code\programming_2_demo\programming2_class_1_demo\srp_invoice\obj\Debug\net8.0\srp_invoice.pdb
+C:\Code\programming_2_demo\programming2_class_1_demo\srp_invoice\obj\Debug\net8.0\srp_invoice.genruntimeconfig.cache
+C:\Code\programming_2_demo\programming2_class_1_demo\srp_invoice\obj\Debug\net8.0\ref\srp_invoice.dll

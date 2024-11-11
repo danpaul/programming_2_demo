@@ -4,7 +4,7 @@ public class LogView(LogRepository logRepository)
 {
     private LogRepository LogRepository { get; set; } = logRepository;
 
-    public void Dislay()
+    public void Display()
     {
         string keepGoing;
         do
