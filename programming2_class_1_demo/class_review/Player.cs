@@ -6,6 +6,8 @@ namespace class_review
         public string name;
         public uint score;
         public uint level;
+
+        // using an overload method
         public Player(string name) : this(name, 0, 1)
         {
         }

@@ -10,6 +10,7 @@ class Program
 
     void Start()
     {
+        // the log repositor and log view are separate so that each manages only a single concern
         LogRepository logRepository = new LogRepository();
         LogView logView = new LogView(logRepository);
         logView.Dislay();

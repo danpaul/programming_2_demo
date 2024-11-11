@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = srp_example_book
-build_property.ProjectDir = /Users/danielbreczinski/Code/inholland/programming_2/programming_2_demo/programming2_class_1_demo/srp_example_book/
+build_property.ProjectDir = C:\Code\programming_2_demo\programming2_class_1_demo\srp_example_book\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -2,6 +2,7 @@ using System;
 
 namespace soc_todo_app;
 
+// This class is only concerned with modelling the todo item
 public class TodoItem
 {
     public string Description { get; set; }

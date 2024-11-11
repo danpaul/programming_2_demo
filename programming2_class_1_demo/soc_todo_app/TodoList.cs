@@ -2,6 +2,7 @@ using System;
 
 namespace soc_todo_app;
 
+// this class is only responsible for maintaining the list of todo items and performing actions on them
 public class TodoList
 {
     private TodoItem[] items = new TodoItem[100];

@@ -8,24 +8,27 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/danielbreczinski/.nuget/packages/": {}
+    "C:\\Users\\Daniel.Breczinski\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/danielbreczinski/Code/inholland/programming_2/programming_2_demo/programming2_class_1_demo/srp_example_book/srp_example_book.csproj",
+      "projectUniqueName": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\srp_example_book\\srp_example_book.csproj",
       "projectName": "srp_example_book",
-      "projectPath": "/Users/danielbreczinski/Code/inholland/programming_2/programming_2_demo/programming2_class_1_demo/srp_example_book/srp_example_book.csproj",
-      "packagesPath": "/Users/danielbreczinski/.nuget/packages/",
-      "outputPath": "/Users/danielbreczinski/Code/inholland/programming_2/programming_2_demo/programming2_class_1_demo/srp_example_book/obj/",
+      "projectPath": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\srp_example_book\\srp_example_book.csproj",
+      "packagesPath": "C:\\Users\\Daniel.Breczinski\\.nuget\\packages\\",
+      "outputPath": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\srp_example_book\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/danielbreczinski/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Daniel.Breczinski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -64,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

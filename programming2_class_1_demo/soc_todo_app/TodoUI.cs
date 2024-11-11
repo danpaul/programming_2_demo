@@ -2,6 +2,8 @@ using System;
 
 namespace soc_todo_app;
 
+// This class is responsible for the user interface (UI) concern
+// No handling of data or persistence is present in this class
 public class TodoUI
 {
     private TodoList toDoList = new TodoList();

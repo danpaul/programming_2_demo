@@ -1,5 +1,7 @@
 namespace srp_invoice;
 
+// These example classes move each responsibilty to a separate class
+// NOTE: normally, each class would be in a separate file, they are combined here for demo purposes
 public class InvoiceModel
 {
     public int InvoiceId { get; set; }
