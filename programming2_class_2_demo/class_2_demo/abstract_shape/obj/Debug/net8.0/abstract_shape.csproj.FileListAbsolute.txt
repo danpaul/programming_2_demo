@@ -1,0 +1,15 @@
+C:\Code\programming_2_demo\programming2_class_2_demo\class_2_demo\abstract_shape\bin\Debug\net8.0\abstract_shape.exe
+C:\Code\programming_2_demo\programming2_class_2_demo\class_2_demo\abstract_shape\bin\Debug\net8.0\abstract_shape.deps.json
+C:\Code\programming_2_demo\programming2_class_2_demo\class_2_demo\abstract_shape\bin\Debug\net8.0\abstract_shape.runtimeconfig.json
+C:\Code\programming_2_demo\programming2_class_2_demo\class_2_demo\abstract_shape\bin\Debug\net8.0\abstract_shape.dll
+C:\Code\programming_2_demo\programming2_class_2_demo\class_2_demo\abstract_shape\bin\Debug\net8.0\abstract_shape.pdb
+C:\Code\programming_2_demo\programming2_class_2_demo\class_2_demo\abstract_shape\obj\Debug\net8.0\abstract_shape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\programming_2_demo\programming2_class_2_demo\class_2_demo\abstract_shape\obj\Debug\net8.0\abstract_shape.AssemblyInfoInputs.cache
+C:\Code\programming_2_demo\programming2_class_2_demo\class_2_demo\abstract_shape\obj\Debug\net8.0\abstract_shape.AssemblyInfo.cs
+C:\Code\programming_2_demo\programming2_class_2_demo\class_2_demo\abstract_shape\obj\Debug\net8.0\abstract_shape.csproj.CoreCompileInputs.cache
+C:\Code\programming_2_demo\programming2_class_2_demo\class_2_demo\abstract_shape\obj\Debug\net8.0\abstract_shape.sourcelink.json
+C:\Code\programming_2_demo\programming2_class_2_demo\class_2_demo\abstract_shape\obj\Debug\net8.0\abstract_shape.dll
+C:\Code\programming_2_demo\programming2_class_2_demo\class_2_demo\abstract_shape\obj\Debug\net8.0\refint\abstract_shape.dll
+C:\Code\programming_2_demo\programming2_class_2_demo\class_2_demo\abstract_shape\obj\Debug\net8.0\abstract_shape.pdb
+C:\Code\programming_2_demo\programming2_class_2_demo\class_2_demo\abstract_shape\obj\Debug\net8.0\abstract_shape.genruntimeconfig.cache
+C:\Code\programming_2_demo\programming2_class_2_demo\class_2_demo\abstract_shape\obj\Debug\net8.0\ref\abstract_shape.dll

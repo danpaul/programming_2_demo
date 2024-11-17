@@ -9,9 +9,9 @@ public class Employee
     public uint Salary = 0;
 
     // The override method is provide by a base class so we need to specify that we override this method
-    public override string ToString()
-    {
-        return $"{FirstName} {LastName}: {Salary}";
-    }
+    //public override string ToString()
+    //{
+    //    return $"{FirstName} {LastName}: {Salary}";
+    //}
 
 }

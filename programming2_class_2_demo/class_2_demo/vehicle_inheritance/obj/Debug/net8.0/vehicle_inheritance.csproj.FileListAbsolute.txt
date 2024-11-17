@@ -1,0 +1,15 @@
+C:\Code\programming_2_demo\programming2_class_2_demo\class_2_demo\vehicle_inheritance\bin\Debug\net8.0\vehicle_inheritance.exe
+C:\Code\programming_2_demo\programming2_class_2_demo\class_2_demo\vehicle_inheritance\bin\Debug\net8.0\vehicle_inheritance.deps.json
+C:\Code\programming_2_demo\programming2_class_2_demo\class_2_demo\vehicle_inheritance\bin\Debug\net8.0\vehicle_inheritance.runtimeconfig.json
+C:\Code\programming_2_demo\programming2_class_2_demo\class_2_demo\vehicle_inheritance\bin\Debug\net8.0\vehicle_inheritance.dll
+C:\Code\programming_2_demo\programming2_class_2_demo\class_2_demo\vehicle_inheritance\bin\Debug\net8.0\vehicle_inheritance.pdb
+C:\Code\programming_2_demo\programming2_class_2_demo\class_2_demo\vehicle_inheritance\obj\Debug\net8.0\vehicle_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\programming_2_demo\programming2_class_2_demo\class_2_demo\vehicle_inheritance\obj\Debug\net8.0\vehicle_inheritance.AssemblyInfoInputs.cache
+C:\Code\programming_2_demo\programming2_class_2_demo\class_2_demo\vehicle_inheritance\obj\Debug\net8.0\vehicle_inheritance.AssemblyInfo.cs
+C:\Code\programming_2_demo\programming2_class_2_demo\class_2_demo\vehicle_inheritance\obj\Debug\net8.0\vehicle_inheritance.csproj.CoreCompileInputs.cache
+C:\Code\programming_2_demo\programming2_class_2_demo\class_2_demo\vehicle_inheritance\obj\Debug\net8.0\vehicle_inheritance.sourcelink.json
+C:\Code\programming_2_demo\programming2_class_2_demo\class_2_demo\vehicle_inheritance\obj\Debug\net8.0\vehicle_inheritance.dll
+C:\Code\programming_2_demo\programming2_class_2_demo\class_2_demo\vehicle_inheritance\obj\Debug\net8.0\refint\vehicle_inheritance.dll
+C:\Code\programming_2_demo\programming2_class_2_demo\class_2_demo\vehicle_inheritance\obj\Debug\net8.0\vehicle_inheritance.pdb
+C:\Code\programming_2_demo\programming2_class_2_demo\class_2_demo\vehicle_inheritance\obj\Debug\net8.0\vehicle_inheritance.genruntimeconfig.cache
+C:\Code\programming_2_demo\programming2_class_2_demo\class_2_demo\vehicle_inheritance\obj\Debug\net8.0\ref\vehicle_inheritance.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("soc_todo_app")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2029fb9985a58fb9e112805fccab0ace2c525f7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab83e05db81d5cf49e849decba0f63898cf32612")]
 [assembly: System.Reflection.AssemblyProductAttribute("soc_todo_app")]
 [assembly: System.Reflection.AssemblyTitleAttribute("soc_todo_app")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

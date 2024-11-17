@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6E9CFB04-6329-49DB-8C19-CDE1BD2069C0}|soc_todo_app\\soc_todo_app.csproj|c:\\code\\programming_2_demo\\programming2_class_1_demo\\soc_todo_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E9CFB04-6329-49DB-8C19-CDE1BD2069C0}|soc_todo_app\\soc_todo_app.csproj|solutionrelative:soc_todo_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EF15393C-D58C-49CA-B7A9-A1AA7DAD40A7}|soc_log\\soc_log.csproj|c:\\code\\programming_2_demo\\programming2_class_1_demo\\soc_log\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF15393C-D58C-49CA-B7A9-A1AA7DAD40A7}|soc_log\\soc_log.csproj|solutionrelative:soc_log\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,71 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\soc_todo_app\\Program.cs",
-              "RelativeDocumentMoniker": "soc_todo_app\\Program.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\soc_todo_app\\Program.cs",
-              "RelativeToolTip": "soc_todo_app\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T11:41:24.684Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LogView.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\soc_log\\LogView.cs",
-              "RelativeDocumentMoniker": "soc_log\\LogView.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\soc_log\\LogView.cs",
-              "RelativeToolTip": "soc_log\\LogView.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwCYAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T11:31:14.263Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "LogRepository.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\soc_log\\LogRepository.cs",
-              "RelativeDocumentMoniker": "soc_log\\LogRepository.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\soc_log\\LogRepository.cs",
-              "RelativeToolTip": "soc_log\\LogRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T11:31:41.9Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Log.cs",
               "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\soc_log\\Log.cs",
               "RelativeDocumentMoniker": "soc_log\\Log.cs",
               "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\soc_log\\Log.cs",
               "RelativeToolTip": "soc_log\\Log.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T11:30:42.591Z",
+              "WhenOpened": "2024-11-12T11:10:00.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogRepository.cs",
+              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\soc_log\\LogRepository.cs",
+              "RelativeDocumentMoniker": "soc_log\\LogRepository.cs",
+              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\soc_log\\LogRepository.cs",
+              "RelativeToolTip": "soc_log\\LogRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:06:29.392Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "LogView.cs",
+              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\soc_log\\LogView.cs",
+              "RelativeDocumentMoniker": "soc_log\\LogView.cs",
+              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\soc_log\\LogView.cs",
+              "RelativeToolTip": "soc_log\\LogView.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:06:13.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\soc_log\\Program.cs",
               "RelativeDocumentMoniker": "soc_log\\Program.cs",
               "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\soc_log\\Program.cs",
               "RelativeToolTip": "soc_log\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAwAAABfAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwA8AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T11:30:29.287Z",
+              "WhenOpened": "2024-11-12T11:06:09.344Z",
               "EditorCaption": ""
             }
           ]

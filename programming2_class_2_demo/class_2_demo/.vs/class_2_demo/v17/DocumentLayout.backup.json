@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE222B1C-C884-43E8-A13C-BA7FE7C98438}|abstract_shape\\abstract_shape.csproj|c:\\code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\abstract_shape\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE222B1C-C884-43E8-A13C-BA7FE7C98438}|abstract_shape\\abstract_shape.csproj|solutionrelative:abstract_shape\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE222B1C-C884-43E8-A13C-BA7FE7C98438}|abstract_shape\\abstract_shape.csproj|c:\\code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\abstract_shape\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE222B1C-C884-43E8-A13C-BA7FE7C98438}|abstract_shape\\abstract_shape.csproj|solutionrelative:abstract_shape\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC53E4D-6AF6-4CC0-8FF8-1459BBD83336}|vehicle_inheritance_constructors\\vehicle_inheritance_constructors.csproj|c:\\code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\vehicle_inheritance_constructors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC53E4D-6AF6-4CC0-8FF8-1459BBD83336}|vehicle_inheritance_constructors\\vehicle_inheritance_constructors.csproj|solutionrelative:vehicle_inheritance_constructors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE222B1C-C884-43E8-A13C-BA7FE7C98438}|abstract_shape\\abstract_shape.csproj|c:\\code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\abstract_shape\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE222B1C-C884-43E8-A13C-BA7FE7C98438}|abstract_shape\\abstract_shape.csproj|solutionrelative:abstract_shape\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE222B1C-C884-43E8-A13C-BA7FE7C98438}|abstract_shape\\abstract_shape.csproj|c:\\code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\abstract_shape\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE222B1C-C884-43E8-A13C-BA7FE7C98438}|abstract_shape\\abstract_shape.csproj|solutionrelative:abstract_shape\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC53E4D-6AF6-4CC0-8FF8-1459BBD83336}|vehicle_inheritance_constructors\\vehicle_inheritance_constructors.csproj|c:\\code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\vehicle_inheritance_constructors\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC53E4D-6AF6-4CC0-8FF8-1459BBD83336}|vehicle_inheritance_constructors\\vehicle_inheritance_constructors.csproj|solutionrelative:vehicle_inheritance_constructors\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\vehicle_inheritance_constructors\\Program.cs",
+              "RelativeDocumentMoniker": "vehicle_inheritance_constructors\\Program.cs",
+              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\vehicle_inheritance_constructors\\Program.cs",
+              "RelativeToolTip": "vehicle_inheritance_constructors\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:50:02.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\vehicle_inheritance_constructors\\Vehicle.cs",
+              "RelativeDocumentMoniker": "vehicle_inheritance_constructors\\Vehicle.cs",
+              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\vehicle_inheritance_constructors\\Vehicle.cs",
+              "RelativeToolTip": "vehicle_inheritance_constructors\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:49:11.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\abstract_shape\\Circle.cs",
+              "RelativeDocumentMoniker": "abstract_shape\\Circle.cs",
+              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\abstract_shape\\Circle.cs",
+              "RelativeToolTip": "abstract_shape\\Circle.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:47:26.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\abstract_shape\\Square.cs",
+              "RelativeDocumentMoniker": "abstract_shape\\Square.cs",
+              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\abstract_shape\\Square.cs",
+              "RelativeToolTip": "abstract_shape\\Square.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:40:41.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\abstract_shape\\Shape.cs",
+              "RelativeDocumentMoniker": "abstract_shape\\Shape.cs",
+              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\abstract_shape\\Shape.cs",
+              "RelativeToolTip": "abstract_shape\\Shape.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwCIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:33:23.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\abstract_shape\\Program.cs",
+              "RelativeDocumentMoniker": "abstract_shape\\Program.cs",
+              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\abstract_shape\\Program.cs",
+              "RelativeToolTip": "abstract_shape\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:32:36.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

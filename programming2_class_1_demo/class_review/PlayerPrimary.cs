@@ -5,7 +5,6 @@ namespace class_review
     internal class PlayerPrimary(string name, uint score, uint level)
     {
         public uint Score { get; set; } = score;
-        public string foo;
 
         // we may still define overload methods but, we must call the primary constructor 
         public PlayerPrimary(string name) : this(name, 0, 1) { }
