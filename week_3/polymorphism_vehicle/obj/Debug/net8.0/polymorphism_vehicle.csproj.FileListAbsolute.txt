@@ -1,0 +1,15 @@
+C:\Code\programming_2_demo\week_3\polymorphism_vehicle\bin\Debug\net8.0\polymorphism_vehicle.exe
+C:\Code\programming_2_demo\week_3\polymorphism_vehicle\bin\Debug\net8.0\polymorphism_vehicle.deps.json
+C:\Code\programming_2_demo\week_3\polymorphism_vehicle\bin\Debug\net8.0\polymorphism_vehicle.runtimeconfig.json
+C:\Code\programming_2_demo\week_3\polymorphism_vehicle\bin\Debug\net8.0\polymorphism_vehicle.dll
+C:\Code\programming_2_demo\week_3\polymorphism_vehicle\bin\Debug\net8.0\polymorphism_vehicle.pdb
+C:\Code\programming_2_demo\week_3\polymorphism_vehicle\obj\Debug\net8.0\polymorphism_vehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\programming_2_demo\week_3\polymorphism_vehicle\obj\Debug\net8.0\polymorphism_vehicle.AssemblyInfoInputs.cache
+C:\Code\programming_2_demo\week_3\polymorphism_vehicle\obj\Debug\net8.0\polymorphism_vehicle.AssemblyInfo.cs
+C:\Code\programming_2_demo\week_3\polymorphism_vehicle\obj\Debug\net8.0\polymorphism_vehicle.csproj.CoreCompileInputs.cache
+C:\Code\programming_2_demo\week_3\polymorphism_vehicle\obj\Debug\net8.0\polymorphism_vehicle.sourcelink.json
+C:\Code\programming_2_demo\week_3\polymorphism_vehicle\obj\Debug\net8.0\polymorphism_vehicle.dll
+C:\Code\programming_2_demo\week_3\polymorphism_vehicle\obj\Debug\net8.0\refint\polymorphism_vehicle.dll
+C:\Code\programming_2_demo\week_3\polymorphism_vehicle\obj\Debug\net8.0\polymorphism_vehicle.pdb
+C:\Code\programming_2_demo\week_3\polymorphism_vehicle\obj\Debug\net8.0\polymorphism_vehicle.genruntimeconfig.cache
+C:\Code\programming_2_demo\week_3\polymorphism_vehicle\obj\Debug\net8.0\ref\polymorphism_vehicle.dll
