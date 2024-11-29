@@ -1,0 +1,9 @@
+C:\Code\programming_2_demo\programming2_class_4_demo\dictionary_students\bin\Debug\net8.0\dictionary_students.exe
+C:\Code\programming_2_demo\programming2_class_4_demo\dictionary_students\obj\Debug\net8.0\dictionary_students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\programming_2_demo\programming2_class_4_demo\dictionary_students\obj\Debug\net8.0\dictionary_students.AssemblyInfoInputs.cache
+C:\Code\programming_2_demo\programming2_class_4_demo\dictionary_students\obj\Debug\net8.0\dictionary_students.AssemblyInfo.cs
+C:\Code\programming_2_demo\programming2_class_4_demo\dictionary_students\obj\Debug\net8.0\dictionary_students.csproj.CoreCompileInputs.cache
+C:\Code\programming_2_demo\programming2_class_4_demo\dictionary_students\obj\Debug\net8.0\dictionary_students.sourcelink.json
+C:\Code\programming_2_demo\programming2_class_4_demo\dictionary_students\obj\Debug\net8.0\dictionary_students.dll
+C:\Code\programming_2_demo\programming2_class_4_demo\dictionary_students\obj\Debug\net8.0\refint\dictionary_students.dll
+C:\Code\programming_2_demo\programming2_class_4_demo\dictionary_students\obj\Debug\net8.0\dictionary_students.pdb

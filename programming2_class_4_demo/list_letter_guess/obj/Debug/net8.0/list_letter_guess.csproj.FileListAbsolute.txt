@@ -1,0 +1,15 @@
+C:\Code\programming_2_demo\programming2_class_4_demo\list_letter_guess\bin\Debug\net8.0\list_letter_guess.exe
+C:\Code\programming_2_demo\programming2_class_4_demo\list_letter_guess\bin\Debug\net8.0\list_letter_guess.deps.json
+C:\Code\programming_2_demo\programming2_class_4_demo\list_letter_guess\bin\Debug\net8.0\list_letter_guess.runtimeconfig.json
+C:\Code\programming_2_demo\programming2_class_4_demo\list_letter_guess\bin\Debug\net8.0\list_letter_guess.dll
+C:\Code\programming_2_demo\programming2_class_4_demo\list_letter_guess\bin\Debug\net8.0\list_letter_guess.pdb
+C:\Code\programming_2_demo\programming2_class_4_demo\list_letter_guess\obj\Debug\net8.0\list_letter_guess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\programming_2_demo\programming2_class_4_demo\list_letter_guess\obj\Debug\net8.0\list_letter_guess.AssemblyInfoInputs.cache
+C:\Code\programming_2_demo\programming2_class_4_demo\list_letter_guess\obj\Debug\net8.0\list_letter_guess.AssemblyInfo.cs
+C:\Code\programming_2_demo\programming2_class_4_demo\list_letter_guess\obj\Debug\net8.0\list_letter_guess.csproj.CoreCompileInputs.cache
+C:\Code\programming_2_demo\programming2_class_4_demo\list_letter_guess\obj\Debug\net8.0\list_letter_guess.sourcelink.json
+C:\Code\programming_2_demo\programming2_class_4_demo\list_letter_guess\obj\Debug\net8.0\list_letter_guess.dll
+C:\Code\programming_2_demo\programming2_class_4_demo\list_letter_guess\obj\Debug\net8.0\refint\list_letter_guess.dll
+C:\Code\programming_2_demo\programming2_class_4_demo\list_letter_guess\obj\Debug\net8.0\list_letter_guess.pdb
+C:\Code\programming_2_demo\programming2_class_4_demo\list_letter_guess\obj\Debug\net8.0\list_letter_guess.genruntimeconfig.cache
+C:\Code\programming_2_demo\programming2_class_4_demo\list_letter_guess\obj\Debug\net8.0\ref\list_letter_guess.dll

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "array_list", "array_list\array_list.csproj", "{05C304BE-28ED-42A7-BBA0-D5CF84A2D686}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todo", "todo\todo.csproj", "{F64D67E9-BBBE-441E-8175-586FCA2A6D50}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "list_methods_properties", "list_methods_properties\list_methods_properties.csproj", "{50AD66BC-22EF-42BA-A931-4F147943C205}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "list_letter_guess", "list_letter_guess\list_letter_guess.csproj", "{40AB29CA-17FC-478B-AC9A-E53E561A24CF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dictionary_phonebook", "dictionary_phonebook\dictionary_phonebook.csproj", "{DF0611D5-D10F-4BAA-8AD6-56B7AC08C4BB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dictionary_students", "dictionary_students\dictionary_students.csproj", "{296CDD0E-513C-4AB6-855D-EF99A3001FEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05C304BE-28ED-42A7-BBA0-D5CF84A2D686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05C304BE-28ED-42A7-BBA0-D5CF84A2D686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05C304BE-28ED-42A7-BBA0-D5CF84A2D686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05C304BE-28ED-42A7-BBA0-D5CF84A2D686}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F64D67E9-BBBE-441E-8175-586FCA2A6D50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F64D67E9-BBBE-441E-8175-586FCA2A6D50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F64D67E9-BBBE-441E-8175-586FCA2A6D50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F64D67E9-BBBE-441E-8175-586FCA2A6D50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50AD66BC-22EF-42BA-A931-4F147943C205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50AD66BC-22EF-42BA-A931-4F147943C205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50AD66BC-22EF-42BA-A931-4F147943C205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50AD66BC-22EF-42BA-A931-4F147943C205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40AB29CA-17FC-478B-AC9A-E53E561A24CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40AB29CA-17FC-478B-AC9A-E53E561A24CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40AB29CA-17FC-478B-AC9A-E53E561A24CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40AB29CA-17FC-478B-AC9A-E53E561A24CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF0611D5-D10F-4BAA-8AD6-56B7AC08C4BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF0611D5-D10F-4BAA-8AD6-56B7AC08C4BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF0611D5-D10F-4BAA-8AD6-56B7AC08C4BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF0611D5-D10F-4BAA-8AD6-56B7AC08C4BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{296CDD0E-513C-4AB6-855D-EF99A3001FEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{296CDD0E-513C-4AB6-855D-EF99A3001FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{296CDD0E-513C-4AB6-855D-EF99A3001FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{296CDD0E-513C-4AB6-855D-EF99A3001FEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9ED93D3-AC3E-4653-ADD6-C57C08945B1B}
+	EndGlobalSection
+EndGlobal

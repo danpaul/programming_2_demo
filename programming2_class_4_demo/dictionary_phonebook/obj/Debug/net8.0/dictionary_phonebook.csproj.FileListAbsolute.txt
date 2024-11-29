@@ -1,0 +1,15 @@
+C:\Code\programming_2_demo\programming2_class_4_demo\dictionary_phonebook\bin\Debug\net8.0\dictionary_phonebook.exe
+C:\Code\programming_2_demo\programming2_class_4_demo\dictionary_phonebook\bin\Debug\net8.0\dictionary_phonebook.deps.json
+C:\Code\programming_2_demo\programming2_class_4_demo\dictionary_phonebook\bin\Debug\net8.0\dictionary_phonebook.runtimeconfig.json
+C:\Code\programming_2_demo\programming2_class_4_demo\dictionary_phonebook\bin\Debug\net8.0\dictionary_phonebook.dll
+C:\Code\programming_2_demo\programming2_class_4_demo\dictionary_phonebook\bin\Debug\net8.0\dictionary_phonebook.pdb
+C:\Code\programming_2_demo\programming2_class_4_demo\dictionary_phonebook\obj\Debug\net8.0\dictionary_phonebook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\programming_2_demo\programming2_class_4_demo\dictionary_phonebook\obj\Debug\net8.0\dictionary_phonebook.AssemblyInfoInputs.cache
+C:\Code\programming_2_demo\programming2_class_4_demo\dictionary_phonebook\obj\Debug\net8.0\dictionary_phonebook.AssemblyInfo.cs
+C:\Code\programming_2_demo\programming2_class_4_demo\dictionary_phonebook\obj\Debug\net8.0\dictionary_phonebook.csproj.CoreCompileInputs.cache
+C:\Code\programming_2_demo\programming2_class_4_demo\dictionary_phonebook\obj\Debug\net8.0\dictionary_phonebook.sourcelink.json
+C:\Code\programming_2_demo\programming2_class_4_demo\dictionary_phonebook\obj\Debug\net8.0\dictionary_phonebook.dll
+C:\Code\programming_2_demo\programming2_class_4_demo\dictionary_phonebook\obj\Debug\net8.0\refint\dictionary_phonebook.dll
+C:\Code\programming_2_demo\programming2_class_4_demo\dictionary_phonebook\obj\Debug\net8.0\dictionary_phonebook.pdb
+C:\Code\programming_2_demo\programming2_class_4_demo\dictionary_phonebook\obj\Debug\net8.0\dictionary_phonebook.genruntimeconfig.cache
+C:\Code\programming_2_demo\programming2_class_4_demo\dictionary_phonebook\obj\Debug\net8.0\ref\dictionary_phonebook.dll
