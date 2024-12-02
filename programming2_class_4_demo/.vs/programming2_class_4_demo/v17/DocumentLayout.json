@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Code\\programming_2_demo\\programming2_class_4_demo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF0611D5-D10F-4BAA-8AD6-56B7AC08C4BB}|dictionary_phonebook\\dictionary_phonebook.csproj|c:\\code\\programming_2_demo\\programming2_class_4_demo\\dictionary_phonebook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF0611D5-D10F-4BAA-8AD6-56B7AC08C4BB}|dictionary_phonebook\\dictionary_phonebook.csproj|solutionrelative:dictionary_phonebook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40AB29CA-17FC-478B-AC9A-E53E561A24CF}|list_letter_guess\\list_letter_guess.csproj|c:\\code\\programming_2_demo\\programming2_class_4_demo\\list_letter_guess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40AB29CA-17FC-478B-AC9A-E53E561A24CF}|list_letter_guess\\list_letter_guess.csproj|solutionrelative:list_letter_guess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{296CDD0E-513C-4AB6-855D-EF99A3001FEA}|dictionary_students\\dictionary_students.csproj|c:\\code\\programming_2_demo\\programming2_class_4_demo\\dictionary_students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{296CDD0E-513C-4AB6-855D-EF99A3001FEA}|dictionary_students\\dictionary_students.csproj|solutionrelative:dictionary_students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{296CDD0E-513C-4AB6-855D-EF99A3001FEA}|dictionary_students\\dictionary_students.csproj|c:\\code\\programming_2_demo\\programming2_class_4_demo\\dictionary_students\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{296CDD0E-513C-4AB6-855D-EF99A3001FEA}|dictionary_students\\dictionary_students.csproj|solutionrelative:dictionary_students\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6BEAA17-9261-47C0-9F0E-90A8635F1797}|vehicles_review\\vehicles_review.csproj|c:\\code\\programming_2_demo\\programming2_class_4_demo\\vehicles_review\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6BEAA17-9261-47C0-9F0E-90A8635F1797}|vehicles_review\\vehicles_review.csproj|solutionrelative:vehicles_review\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50AD66BC-22EF-42BA-A931-4F147943C205}|list_methods_properties\\list_methods_properties.csproj|c:\\code\\programming_2_demo\\programming2_class_4_demo\\list_methods_properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,18 +13,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{05C304BE-28ED-42A7-BBA0-D5CF84A2D686}|array_list\\array_list.csproj|c:\\code\\programming_2_demo\\programming2_class_4_demo\\array_list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05C304BE-28ED-42A7-BBA0-D5CF84A2D686}|array_list\\array_list.csproj|solutionrelative:array_list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code\\programming_2_demo\\programming2_class_4_demo\\todo\\Todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:todo\\Todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code\\programming_2_demo\\programming2_class_4_demo\\todo\\ITodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:todo\\ITodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code\\programming_2_demo\\programming2_class_4_demo\\todo\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:todo\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,110 +28,40 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_4_demo\\dictionary_phonebook\\Program.cs",
-              "RelativeDocumentMoniker": "dictionary_phonebook\\Program.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_4_demo\\dictionary_phonebook\\Program.cs",
-              "RelativeToolTip": "dictionary_phonebook\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_4_demo\\vehicles_review\\Program.cs",
+              "RelativeDocumentMoniker": "vehicles_review\\Program.cs",
+              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_4_demo\\vehicles_review\\Program.cs",
+              "RelativeToolTip": "vehicles_review\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T08:50:45.353Z",
+              "WhenOpened": "2024-12-02T08:05:00.841Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_4_demo\\dictionary_students\\Student.cs",
-              "RelativeDocumentMoniker": "dictionary_students\\Student.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_4_demo\\dictionary_students\\Student.cs",
-              "RelativeToolTip": "dictionary_students\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T08:09:56.749Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_4_demo\\dictionary_students\\Program.cs",
-              "RelativeDocumentMoniker": "dictionary_students\\Program.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_4_demo\\dictionary_students\\Program.cs",
-              "RelativeToolTip": "dictionary_students\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T08:08:47.329Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_4_demo\\list_letter_guess\\Program.cs",
-              "RelativeDocumentMoniker": "list_letter_guess\\Program.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_4_demo\\list_letter_guess\\Program.cs",
-              "RelativeToolTip": "list_letter_guess\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T06:22:28.566Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_4_demo\\list_methods_properties\\Program.cs",
               "RelativeDocumentMoniker": "list_methods_properties\\Program.cs",
               "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_4_demo\\list_methods_properties\\Program.cs",
               "RelativeToolTip": "list_methods_properties\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T05:54:31.817Z"
+              "WhenOpened": "2024-12-02T07:52:37.373Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Todo.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_4_demo\\todo\\Todo.cs",
-              "RelativeDocumentMoniker": "todo\\Todo.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_4_demo\\todo\\Todo.cs",
-              "RelativeToolTip": "todo\\Todo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T14:57:57.47Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ITodo.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_4_demo\\todo\\ITodo.cs",
-              "RelativeDocumentMoniker": "todo\\ITodo.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_4_demo\\todo\\ITodo.cs",
-              "RelativeToolTip": "todo\\ITodo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T14:56:13.912Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_4_demo\\todo\\Program.cs",
-              "RelativeDocumentMoniker": "todo\\Program.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_4_demo\\todo\\Program.cs",
-              "RelativeToolTip": "todo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T14:30:02.957Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_4_demo\\array_list\\Program.cs",
               "RelativeDocumentMoniker": "array_list\\Program.cs",
               "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_4_demo\\array_list\\Program.cs",
               "RelativeToolTip": "array_list\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T14:13:05.027Z"
+              "WhenOpened": "2024-12-02T07:43:03.408Z",
+              "EditorCaption": ""
             }
           ]
         }
