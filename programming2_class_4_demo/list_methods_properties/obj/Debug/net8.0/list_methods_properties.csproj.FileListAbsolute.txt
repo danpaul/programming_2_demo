@@ -1,0 +1,15 @@
+C:\Code\programming_2_demo\programming2_class_4_demo\list_methods_properties\bin\Debug\net8.0\list_methods_properties.exe
+C:\Code\programming_2_demo\programming2_class_4_demo\list_methods_properties\bin\Debug\net8.0\list_methods_properties.deps.json
+C:\Code\programming_2_demo\programming2_class_4_demo\list_methods_properties\bin\Debug\net8.0\list_methods_properties.runtimeconfig.json
+C:\Code\programming_2_demo\programming2_class_4_demo\list_methods_properties\bin\Debug\net8.0\list_methods_properties.dll
+C:\Code\programming_2_demo\programming2_class_4_demo\list_methods_properties\bin\Debug\net8.0\list_methods_properties.pdb
+C:\Code\programming_2_demo\programming2_class_4_demo\list_methods_properties\obj\Debug\net8.0\list_methods_properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\programming_2_demo\programming2_class_4_demo\list_methods_properties\obj\Debug\net8.0\list_methods_properties.AssemblyInfoInputs.cache
+C:\Code\programming_2_demo\programming2_class_4_demo\list_methods_properties\obj\Debug\net8.0\list_methods_properties.AssemblyInfo.cs
+C:\Code\programming_2_demo\programming2_class_4_demo\list_methods_properties\obj\Debug\net8.0\list_methods_properties.csproj.CoreCompileInputs.cache
+C:\Code\programming_2_demo\programming2_class_4_demo\list_methods_properties\obj\Debug\net8.0\list_methods_properties.sourcelink.json
+C:\Code\programming_2_demo\programming2_class_4_demo\list_methods_properties\obj\Debug\net8.0\list_methods_properties.dll
+C:\Code\programming_2_demo\programming2_class_4_demo\list_methods_properties\obj\Debug\net8.0\refint\list_methods_properties.dll
+C:\Code\programming_2_demo\programming2_class_4_demo\list_methods_properties\obj\Debug\net8.0\list_methods_properties.pdb
+C:\Code\programming_2_demo\programming2_class_4_demo\list_methods_properties\obj\Debug\net8.0\list_methods_properties.genruntimeconfig.cache
+C:\Code\programming_2_demo\programming2_class_4_demo\list_methods_properties\obj\Debug\net8.0\ref\list_methods_properties.dll

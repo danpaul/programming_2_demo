@@ -10,8 +10,9 @@
 
         void Start()
         {
+            string doContinue;
             List<char> blacklist = new List<char>();
-            while (true)
+            do
             {
                 char newLetter = GuessLetter(blacklist);
                 blacklist.Add(newLetter);
@@ -21,7 +22,9 @@
                     Console.Write($"{letter} ");
                 }
                 Console.WriteLine();
-            }
+                Console.Write("Would you like to continue (y/n)? ");
+                doContinue = Console.ReadLine();
+            } while (doContinue != "n");
         }
 
         // take a List<char> of blacklist letters

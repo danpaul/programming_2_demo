@@ -5,7 +5,7 @@
 
     /**
      * NOTE!!! We are putting enverything in a single file for demo/review.
-     * When programming assignments, you should never do this, 
+     * When programming assignments, you should never do this
      */
 
     // Define an interface
@@ -98,10 +98,10 @@
         {
             // Create a list of vehicles
             List<IVehicle> vehicles = new List<IVehicle>
-        {
-            new Car("Toyota", "Corolla", 4),
-            new Bike("Yamaha", "MT-15", true)
-        };
+            {
+                new Car("Toyota", "Corolla", 4),
+                new Bike("Yamaha", "MT-15", true)
+            };
 
             // Start and stop each vehicle
             foreach (IVehicle vehicle in vehicles)
@@ -115,10 +115,10 @@
 
             // Use a dictionary to store vehicles by ID
             Dictionary<int, IVehicle> vehicleDictionary = new Dictionary<int, IVehicle>
-        {
-            { 1, new Car("Honda", "Civic", 4) },
-            { 2, new Bike("Hero", "Splendor", false) }
-        };
+            {
+                { 1, new Car("Honda", "Civic", 4) },
+                { 2, new Bike("Hero", "Splendor", false) }
+            };
 
             // Access and display vehicles using their ID
             foreach (var key in vehicleDictionary.Keys)

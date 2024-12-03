@@ -23,6 +23,8 @@ namespace array_list
                 Console.WriteLine(i);
             }
 
+            // return;
+
             // List is typed
             List<int> list2 = new List<int>();
             list2.Add(1);

@@ -1,0 +1,15 @@
+C:\Code\programming_2_demo\programming2_class_4_demo\array_list\obj\Debug\net8.0\array_list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\programming_2_demo\programming2_class_4_demo\array_list\obj\Debug\net8.0\array_list.AssemblyInfoInputs.cache
+C:\Code\programming_2_demo\programming2_class_4_demo\array_list\obj\Debug\net8.0\array_list.AssemblyInfo.cs
+C:\Code\programming_2_demo\programming2_class_4_demo\array_list\obj\Debug\net8.0\array_list.csproj.CoreCompileInputs.cache
+C:\Code\programming_2_demo\programming2_class_4_demo\array_list\obj\Debug\net8.0\array_list.sourcelink.json
+C:\Code\programming_2_demo\programming2_class_4_demo\array_list\bin\Debug\net8.0\array_list.exe
+C:\Code\programming_2_demo\programming2_class_4_demo\array_list\bin\Debug\net8.0\array_list.deps.json
+C:\Code\programming_2_demo\programming2_class_4_demo\array_list\bin\Debug\net8.0\array_list.runtimeconfig.json
+C:\Code\programming_2_demo\programming2_class_4_demo\array_list\bin\Debug\net8.0\array_list.dll
+C:\Code\programming_2_demo\programming2_class_4_demo\array_list\bin\Debug\net8.0\array_list.pdb
+C:\Code\programming_2_demo\programming2_class_4_demo\array_list\obj\Debug\net8.0\array_list.dll
+C:\Code\programming_2_demo\programming2_class_4_demo\array_list\obj\Debug\net8.0\refint\array_list.dll
+C:\Code\programming_2_demo\programming2_class_4_demo\array_list\obj\Debug\net8.0\array_list.pdb
+C:\Code\programming_2_demo\programming2_class_4_demo\array_list\obj\Debug\net8.0\array_list.genruntimeconfig.cache
+C:\Code\programming_2_demo\programming2_class_4_demo\array_list\obj\Debug\net8.0\ref\array_list.dll
