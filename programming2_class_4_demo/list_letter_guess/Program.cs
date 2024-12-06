@@ -24,6 +24,7 @@
                 Console.WriteLine();
                 Console.Write("Would you like to continue (y/n)? ");
                 doContinue = Console.ReadLine();
+                Console.WriteLine();
             } while (doContinue != "n");
         }
 

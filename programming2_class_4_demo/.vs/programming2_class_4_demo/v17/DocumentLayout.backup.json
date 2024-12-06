@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Code\\programming_2_demo\\programming2_class_4_demo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40AB29CA-17FC-478B-AC9A-E53E561A24CF}|list_letter_guess\\list_letter_guess.csproj|c:\\code\\programming_2_demo\\programming2_class_4_demo\\list_letter_guess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40AB29CA-17FC-478B-AC9A-E53E561A24CF}|list_letter_guess\\list_letter_guess.csproj|solutionrelative:list_letter_guess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6BEAA17-9261-47C0-9F0E-90A8635F1797}|vehicles_review\\vehicles_review.csproj|c:\\code\\programming_2_demo\\programming2_class_4_demo\\vehicles_review\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6BEAA17-9261-47C0-9F0E-90A8635F1797}|vehicles_review\\vehicles_review.csproj|solutionrelative:vehicles_review\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF0611D5-D10F-4BAA-8AD6-56B7AC08C4BB}|dictionary_phonebook\\dictionary_phonebook.csproj|c:\\code\\programming_2_demo\\programming2_class_4_demo\\dictionary_phonebook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF0611D5-D10F-4BAA-8AD6-56B7AC08C4BB}|dictionary_phonebook\\dictionary_phonebook.csproj|solutionrelative:dictionary_phonebook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6BEAA17-9261-47C0-9F0E-90A8635F1797}|vehicles_review\\vehicles_review.csproj|c:\\code\\programming_2_demo\\programming2_class_4_demo\\vehicles_review\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6BEAA17-9261-47C0-9F0E-90A8635F1797}|vehicles_review\\vehicles_review.csproj|solutionrelative:vehicles_review\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,26 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_4_demo\\list_letter_guess\\Program.cs",
-              "RelativeDocumentMoniker": "list_letter_guess\\Program.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_4_demo\\list_letter_guess\\Program.cs",
-              "RelativeToolTip": "list_letter_guess\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBkAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T08:27:48.162Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_4_demo\\vehicles_review\\Program.cs",
               "RelativeDocumentMoniker": "vehicles_review\\Program.cs",
               "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_4_demo\\vehicles_review\\Program.cs",
               "RelativeToolTip": "vehicles_review\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAIIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T10:09:47.687Z",
+              "WhenOpened": "2024-12-03T11:06:56.547Z",
               "EditorCaption": ""
             },
             {
@@ -58,9 +41,9 @@
               "RelativeDocumentMoniker": "dictionary_phonebook\\Program.cs",
               "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_4_demo\\dictionary_phonebook\\Program.cs",
               "RelativeToolTip": "dictionary_phonebook\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwDAAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T10:08:30.621Z",
+              "WhenOpened": "2024-12-03T10:57:05.746Z",
               "EditorCaption": ""
             }
           ]

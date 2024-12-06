@@ -1,0 +1,15 @@
+C:\Code\programming_2_demo\programming2_class_4_demo\vehicles_review\bin\Debug\net8.0\vehicles_review.exe
+C:\Code\programming_2_demo\programming2_class_4_demo\vehicles_review\bin\Debug\net8.0\vehicles_review.deps.json
+C:\Code\programming_2_demo\programming2_class_4_demo\vehicles_review\bin\Debug\net8.0\vehicles_review.runtimeconfig.json
+C:\Code\programming_2_demo\programming2_class_4_demo\vehicles_review\bin\Debug\net8.0\vehicles_review.dll
+C:\Code\programming_2_demo\programming2_class_4_demo\vehicles_review\bin\Debug\net8.0\vehicles_review.pdb
+C:\Code\programming_2_demo\programming2_class_4_demo\vehicles_review\obj\Debug\net8.0\vehicles_review.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\programming_2_demo\programming2_class_4_demo\vehicles_review\obj\Debug\net8.0\vehicles_review.AssemblyInfoInputs.cache
+C:\Code\programming_2_demo\programming2_class_4_demo\vehicles_review\obj\Debug\net8.0\vehicles_review.AssemblyInfo.cs
+C:\Code\programming_2_demo\programming2_class_4_demo\vehicles_review\obj\Debug\net8.0\vehicles_review.csproj.CoreCompileInputs.cache
+C:\Code\programming_2_demo\programming2_class_4_demo\vehicles_review\obj\Debug\net8.0\vehicles_review.sourcelink.json
+C:\Code\programming_2_demo\programming2_class_4_demo\vehicles_review\obj\Debug\net8.0\vehicles_review.dll
+C:\Code\programming_2_demo\programming2_class_4_demo\vehicles_review\obj\Debug\net8.0\refint\vehicles_review.dll
+C:\Code\programming_2_demo\programming2_class_4_demo\vehicles_review\obj\Debug\net8.0\vehicles_review.pdb
+C:\Code\programming_2_demo\programming2_class_4_demo\vehicles_review\obj\Debug\net8.0\vehicles_review.genruntimeconfig.cache
+C:\Code\programming_2_demo\programming2_class_4_demo\vehicles_review\obj\Debug\net8.0\ref\vehicles_review.dll

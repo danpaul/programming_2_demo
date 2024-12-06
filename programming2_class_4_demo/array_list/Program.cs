@@ -16,20 +16,21 @@ namespace array_list
             ArrayList list = new ArrayList();
             list.Add(1);
             list.Add(2);
-            list.Add("3"); // inconsistent data type = runtime error!
+            list.Add("3"); // inconsistent data type
 
-            foreach (int i in list)
+            foreach (int i in list) // runtime error!
             {
                 Console.WriteLine(i);
             }
-
-            // return;
 
             // List is typed
             List<int> list2 = new List<int>();
             list2.Add(1);
             list2.Add(2);
-            list2.Add("3"); // phew! compile time error, we'll have to fix this before the program runs
+            list2.Add("3"); // phew! build time error,
+                            // we'll have to fix this before the program runs
+
+            // List<List<int>> myListList = new List<List<int>>(); 
 
             foreach (int i in list2)
             {

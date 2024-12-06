@@ -1,0 +1,15 @@
+C:\Code\programming_2_demo\programming2_class_4_demo\generic_example\bin\Debug\net8.0\generic_example.exe
+C:\Code\programming_2_demo\programming2_class_4_demo\generic_example\bin\Debug\net8.0\generic_example.deps.json
+C:\Code\programming_2_demo\programming2_class_4_demo\generic_example\bin\Debug\net8.0\generic_example.runtimeconfig.json
+C:\Code\programming_2_demo\programming2_class_4_demo\generic_example\bin\Debug\net8.0\generic_example.dll
+C:\Code\programming_2_demo\programming2_class_4_demo\generic_example\bin\Debug\net8.0\generic_example.pdb
+C:\Code\programming_2_demo\programming2_class_4_demo\generic_example\obj\Debug\net8.0\generic_example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\programming_2_demo\programming2_class_4_demo\generic_example\obj\Debug\net8.0\generic_example.AssemblyInfoInputs.cache
+C:\Code\programming_2_demo\programming2_class_4_demo\generic_example\obj\Debug\net8.0\generic_example.AssemblyInfo.cs
+C:\Code\programming_2_demo\programming2_class_4_demo\generic_example\obj\Debug\net8.0\generic_example.csproj.CoreCompileInputs.cache
+C:\Code\programming_2_demo\programming2_class_4_demo\generic_example\obj\Debug\net8.0\generic_example.sourcelink.json
+C:\Code\programming_2_demo\programming2_class_4_demo\generic_example\obj\Debug\net8.0\generic_example.dll
+C:\Code\programming_2_demo\programming2_class_4_demo\generic_example\obj\Debug\net8.0\refint\generic_example.dll
+C:\Code\programming_2_demo\programming2_class_4_demo\generic_example\obj\Debug\net8.0\generic_example.pdb
+C:\Code\programming_2_demo\programming2_class_4_demo\generic_example\obj\Debug\net8.0\generic_example.genruntimeconfig.cache
+C:\Code\programming_2_demo\programming2_class_4_demo\generic_example\obj\Debug\net8.0\ref\generic_example.dll
