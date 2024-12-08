@@ -1,8 +1,10 @@
-﻿namespace exception_type
+﻿
+
+namespace exception_type
 {
     // define a custom exception
     // it's possible to extend `Exception` but `ApplicationException` is preffered
-    //  for custom exceptions
+    //  for custom application exceptions
     public class DatabaseConnectionException : ApplicationException
     {
         public DatabaseConnectionException(string message) : base(message) { }

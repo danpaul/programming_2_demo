@@ -58,7 +58,7 @@
             // KeyNotFoundException
             try
             {
-                var dictionary = new Dictionary<string, int>();
+                Dictionary<string, int> dictionary = new Dictionary<string, int>();
                 int value = dictionary["missingKey"];
             }
             catch (KeyNotFoundException ex)
@@ -83,7 +83,7 @@
             // FileNotFoundException
             try
             {
-                var content = File.ReadAllText("nonexistent.txt");
+                string content = File.ReadAllText("nonexistent.txt");
             }
             catch (FileNotFoundException ex)
             {

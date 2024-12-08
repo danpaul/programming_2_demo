@@ -10,14 +10,6 @@
 
         void Start()
         {
-            int[] numbers = { 1, 2, 3, 4, 5 };
-            for (int i = 0; i <= numbers.Length; i++)
-            {
-
-
-            }
-
-
             BankAccount account = new BankAccount(1000);
 
             Console.WriteLine($"Current Balance: {account.GetBalance()}");
