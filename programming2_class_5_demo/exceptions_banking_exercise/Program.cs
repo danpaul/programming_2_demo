@@ -23,7 +23,6 @@
             decimal withdrawAmount = decimal.Parse(Console.ReadLine());
             account.Withdraw(withdrawAmount);
             Console.WriteLine($"New Balance after withdrawal: {account.GetBalance()}");
-
         }
     }
 }

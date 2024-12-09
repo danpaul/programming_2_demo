@@ -10,7 +10,7 @@
         static async Task Main(string[] args)
         {
 
-            // ArgumentOutOfRangeException
+            // IndexOutOfRangeException
             try
             {
                 int[] array = { 1, 2, 3 };
@@ -42,17 +42,6 @@
             catch (FormatException ex)
             {
                 Console.WriteLine($"FormatException: {ex.Message}");
-            }
-
-            // IndexOutOfRangeException
-            try
-            {
-                int[] numbers = { 1, 2, 3 };
-                Console.WriteLine(numbers[5]);
-            }
-            catch (IndexOutOfRangeException ex)
-            {
-                Console.WriteLine($"IndexOutOfRangeException: {ex.Message}");
             }
 
             // KeyNotFoundException

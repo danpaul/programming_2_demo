@@ -26,13 +26,13 @@
                 account.Withdraw(withdrawAmount);
                 Console.WriteLine($"New Balance after withdrawal: {account.GetBalance()}");
             }
-            catch (ArgumentException ex)
-            {
-                Console.WriteLine($"Input Error: {ex.Message}");
-            }
             catch (InsufficientFundsException ex)
             {
                 Console.WriteLine($"Transaction Error: {ex.Message}");
+            }
+            catch (ArgumentException ex)
+            {
+                Console.WriteLine($"Input Error: {ex.Message}");
             }
             catch (Exception ex)
             {
