@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -32,22 +32,9 @@
               "RelativeDocumentMoniker": "exceptions_banking_exercise_solution\\Exceptions.cs",
               "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_5_demo\\exceptions_banking_exercise_solution\\Exceptions.cs",
               "RelativeToolTip": "exceptions_banking_exercise_solution\\Exceptions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T10:19:52.517Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BankAccount.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_5_demo\\exceptions_banking_exercise_solution\\BankAccount.cs",
-              "RelativeDocumentMoniker": "exceptions_banking_exercise_solution\\BankAccount.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_5_demo\\exceptions_banking_exercise_solution\\BankAccount.cs",
-              "RelativeToolTip": "exceptions_banking_exercise_solution\\BankAccount.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAwwB0AAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T09:50:38.515Z",
+              "WhenOpened": "2024-12-10T11:10:56.305Z",
               "EditorCaption": ""
             },
             {
@@ -58,9 +45,22 @@
               "RelativeDocumentMoniker": "exceptions_banking_exercise_solution\\Program.cs",
               "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_5_demo\\exceptions_banking_exercise_solution\\Program.cs",
               "RelativeToolTip": "exceptions_banking_exercise_solution\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAowCoAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T09:49:48.733Z",
+              "WhenOpened": "2024-12-10T11:00:23.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_5_demo\\exceptions_banking_exercise_solution\\BankAccount.cs",
+              "RelativeDocumentMoniker": "exceptions_banking_exercise_solution\\BankAccount.cs",
+              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_5_demo\\exceptions_banking_exercise_solution\\BankAccount.cs",
+              "RelativeToolTip": "exceptions_banking_exercise_solution\\BankAccount.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowB0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T11:00:18.43Z",
               "EditorCaption": ""
             }
           ]

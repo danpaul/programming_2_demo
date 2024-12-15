@@ -1,0 +1,15 @@
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\todo_solution\bin\Debug\net8.0\todo_solution.exe
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\todo_solution\bin\Debug\net8.0\todo_solution.deps.json
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\todo_solution\bin\Debug\net8.0\todo_solution.runtimeconfig.json
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\todo_solution\bin\Debug\net8.0\todo_solution.dll
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\todo_solution\bin\Debug\net8.0\todo_solution.pdb
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\todo_solution\obj\Debug\net8.0\todo_solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\todo_solution\obj\Debug\net8.0\todo_solution.AssemblyInfoInputs.cache
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\todo_solution\obj\Debug\net8.0\todo_solution.AssemblyInfo.cs
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\todo_solution\obj\Debug\net8.0\todo_solution.csproj.CoreCompileInputs.cache
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\todo_solution\obj\Debug\net8.0\todo_solution.sourcelink.json
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\todo_solution\obj\Debug\net8.0\todo_solution.dll
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\todo_solution\obj\Debug\net8.0\refint\todo_solution.dll
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\todo_solution\obj\Debug\net8.0\todo_solution.pdb
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\todo_solution\obj\Debug\net8.0\todo_solution.genruntimeconfig.cache
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\todo_solution\obj\Debug\net8.0\ref\todo_solution.dll

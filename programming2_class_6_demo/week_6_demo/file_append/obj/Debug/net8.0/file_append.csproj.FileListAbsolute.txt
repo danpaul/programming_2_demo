@@ -1,0 +1,15 @@
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\file_append\bin\Debug\net8.0\file_append.exe
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\file_append\bin\Debug\net8.0\file_append.deps.json
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\file_append\bin\Debug\net8.0\file_append.runtimeconfig.json
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\file_append\bin\Debug\net8.0\file_append.dll
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\file_append\bin\Debug\net8.0\file_append.pdb
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\file_append\obj\Debug\net8.0\file_append.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\file_append\obj\Debug\net8.0\file_append.AssemblyInfoInputs.cache
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\file_append\obj\Debug\net8.0\file_append.AssemblyInfo.cs
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\file_append\obj\Debug\net8.0\file_append.csproj.CoreCompileInputs.cache
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\file_append\obj\Debug\net8.0\file_append.sourcelink.json
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\file_append\obj\Debug\net8.0\file_append.dll
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\file_append\obj\Debug\net8.0\refint\file_append.dll
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\file_append\obj\Debug\net8.0\file_append.pdb
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\file_append\obj\Debug\net8.0\file_append.genruntimeconfig.cache
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\file_append\obj\Debug\net8.0\ref\file_append.dll

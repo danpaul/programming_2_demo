@@ -1,0 +1,15 @@
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\war_and_peace\bin\Debug\net8.0\war_and_peace.exe
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\war_and_peace\bin\Debug\net8.0\war_and_peace.deps.json
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\war_and_peace\bin\Debug\net8.0\war_and_peace.runtimeconfig.json
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\war_and_peace\bin\Debug\net8.0\war_and_peace.dll
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\war_and_peace\bin\Debug\net8.0\war_and_peace.pdb
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\war_and_peace\obj\Debug\net8.0\war_and_peace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\war_and_peace\obj\Debug\net8.0\war_and_peace.AssemblyInfoInputs.cache
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\war_and_peace\obj\Debug\net8.0\war_and_peace.AssemblyInfo.cs
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\war_and_peace\obj\Debug\net8.0\war_and_peace.csproj.CoreCompileInputs.cache
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\war_and_peace\obj\Debug\net8.0\war_and_peace.sourcelink.json
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\war_and_peace\obj\Debug\net8.0\war_and_peace.dll
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\war_and_peace\obj\Debug\net8.0\refint\war_and_peace.dll
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\war_and_peace\obj\Debug\net8.0\war_and_peace.pdb
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\war_and_peace\obj\Debug\net8.0\war_and_peace.genruntimeconfig.cache
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\war_and_peace\obj\Debug\net8.0\ref\war_and_peace.dll

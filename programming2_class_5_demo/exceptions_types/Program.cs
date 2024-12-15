@@ -13,7 +13,10 @@
             // IndexOutOfRangeException
             try
             {
+                
                 int[] array = { 1, 2, 3 };
+                // int index = int.Parse(Console.ReadLine());
+                // Console.WriteLine(array[index]);
                 Console.WriteLine(array[3]);
             }
             catch (IndexOutOfRangeException ex)

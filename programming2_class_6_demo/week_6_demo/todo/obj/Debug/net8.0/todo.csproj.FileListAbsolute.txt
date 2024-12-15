@@ -1,0 +1,15 @@
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\todo\bin\Debug\net8.0\todo.exe
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\todo\bin\Debug\net8.0\todo.deps.json
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\todo\bin\Debug\net8.0\todo.runtimeconfig.json
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\todo\bin\Debug\net8.0\todo.dll
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\todo\bin\Debug\net8.0\todo.pdb
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\todo\obj\Debug\net8.0\todo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\todo\obj\Debug\net8.0\todo.AssemblyInfoInputs.cache
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\todo\obj\Debug\net8.0\todo.AssemblyInfo.cs
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\todo\obj\Debug\net8.0\todo.csproj.CoreCompileInputs.cache
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\todo\obj\Debug\net8.0\todo.sourcelink.json
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\todo\obj\Debug\net8.0\todo.dll
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\todo\obj\Debug\net8.0\refint\todo.dll
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\todo\obj\Debug\net8.0\todo.pdb
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\todo\obj\Debug\net8.0\todo.genruntimeconfig.cache
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\todo\obj\Debug\net8.0\ref\todo.dll

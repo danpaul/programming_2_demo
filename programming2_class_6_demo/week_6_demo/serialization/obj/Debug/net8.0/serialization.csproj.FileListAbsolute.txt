@@ -1,0 +1,15 @@
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\serialization\bin\Debug\net8.0\serialization.exe
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\serialization\bin\Debug\net8.0\serialization.deps.json
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\serialization\bin\Debug\net8.0\serialization.runtimeconfig.json
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\serialization\bin\Debug\net8.0\serialization.dll
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\serialization\bin\Debug\net8.0\serialization.pdb
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\serialization\obj\Debug\net8.0\serialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\serialization\obj\Debug\net8.0\serialization.AssemblyInfoInputs.cache
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\serialization\obj\Debug\net8.0\serialization.AssemblyInfo.cs
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\serialization\obj\Debug\net8.0\serialization.csproj.CoreCompileInputs.cache
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\serialization\obj\Debug\net8.0\serialization.sourcelink.json
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\serialization\obj\Debug\net8.0\serialization.dll
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\serialization\obj\Debug\net8.0\refint\serialization.dll
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\serialization\obj\Debug\net8.0\serialization.pdb
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\serialization\obj\Debug\net8.0\serialization.genruntimeconfig.cache
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\serialization\obj\Debug\net8.0\ref\serialization.dll

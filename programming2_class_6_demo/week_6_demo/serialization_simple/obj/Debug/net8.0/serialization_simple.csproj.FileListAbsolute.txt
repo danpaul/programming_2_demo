@@ -1,0 +1,15 @@
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\serialization_simple\bin\Debug\net8.0\serialization_simple.exe
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\serialization_simple\bin\Debug\net8.0\serialization_simple.deps.json
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\serialization_simple\bin\Debug\net8.0\serialization_simple.runtimeconfig.json
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\serialization_simple\bin\Debug\net8.0\serialization_simple.dll
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\serialization_simple\bin\Debug\net8.0\serialization_simple.pdb
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\serialization_simple\obj\Debug\net8.0\serialization_simple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\serialization_simple\obj\Debug\net8.0\serialization_simple.AssemblyInfoInputs.cache
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\serialization_simple\obj\Debug\net8.0\serialization_simple.AssemblyInfo.cs
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\serialization_simple\obj\Debug\net8.0\serialization_simple.csproj.CoreCompileInputs.cache
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\serialization_simple\obj\Debug\net8.0\serialization_simple.sourcelink.json
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\serialization_simple\obj\Debug\net8.0\serialization_simple.dll
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\serialization_simple\obj\Debug\net8.0\refint\serialization_simple.dll
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\serialization_simple\obj\Debug\net8.0\serialization_simple.pdb
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\serialization_simple\obj\Debug\net8.0\serialization_simple.genruntimeconfig.cache
+C:\Code\programming_2_demo\programming2_class_6_demo\week_6_demo\serialization_simple\obj\Debug\net8.0\ref\serialization_simple.dll

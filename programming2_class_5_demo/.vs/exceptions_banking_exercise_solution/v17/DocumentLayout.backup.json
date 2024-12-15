@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Code\\programming_2_demo\\programming2_class_5_demo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{668B9A7B-E3C4-40BE-BD36-A48819B342DB}|exception_user\\exception_user.csproj|c:\\code\\programming_2_demo\\programming2_class_5_demo\\exception_user\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{668B9A7B-E3C4-40BE-BD36-A48819B342DB}|exception_user\\exception_user.csproj|solutionrelative:exception_user\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29A720B6-9A62-4D1C-9821-81C38D13438A}|exceptions_banking_exercise\\exceptions_banking_exercise.csproj|c:\\code\\programming_2_demo\\programming2_class_5_demo\\exceptions_banking_exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A720B6-9A62-4D1C-9821-81C38D13438A}|exceptions_banking_exercise\\exceptions_banking_exercise.csproj|solutionrelative:exceptions_banking_exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CC1519C-2229-488B-9343-5A78DB3D1012}|exceptions_types\\exceptions_types.csproj|c:\\code\\programming_2_demo\\programming2_class_5_demo\\exceptions_types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CC1519C-2229-488B-9343-5A78DB3D1012}|exceptions_types\\exceptions_types.csproj|solutionrelative:exceptions_types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{668B9A7B-E3C4-40BE-BD36-A48819B342DB}|exception_user\\exception_user.csproj|c:\\code\\programming_2_demo\\programming2_class_5_demo\\exception_user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{668B9A7B-E3C4-40BE-BD36-A48819B342DB}|exception_user\\exception_user.csproj|solutionrelative:exception_user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29A720B6-9A62-4D1C-9821-81C38D13438A}|exceptions_banking_exercise\\exceptions_banking_exercise.csproj|c:\\code\\programming_2_demo\\programming2_class_5_demo\\exceptions_banking_exercise\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A720B6-9A62-4D1C-9821-81C38D13438A}|exceptions_banking_exercise\\exceptions_banking_exercise.csproj|solutionrelative:exceptions_banking_exercise\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exceptions.cs",
+              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_5_demo\\exceptions_banking_exercise\\Exceptions.cs",
+              "RelativeDocumentMoniker": "exceptions_banking_exercise\\Exceptions.cs",
+              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_5_demo\\exceptions_banking_exercise\\Exceptions.cs",
+              "RelativeToolTip": "exceptions_banking_exercise\\Exceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:47:19.73Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_5_demo\\exception_user\\Program.cs",
-              "RelativeDocumentMoniker": "exception_user\\Program.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_5_demo\\exception_user\\Program.cs",
-              "RelativeToolTip": "exception_user\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowBcAAAATAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_5_demo\\exceptions_banking_exercise\\Program.cs",
+              "RelativeDocumentMoniker": "exceptions_banking_exercise\\Program.cs",
+              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_5_demo\\exceptions_banking_exercise\\Program.cs",
+              "RelativeToolTip": "exceptions_banking_exercise\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T09:13:19.662Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_5_demo\\exception_user\\User.cs",
-              "RelativeDocumentMoniker": "exception_user\\User.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_5_demo\\exception_user\\User.cs",
-              "RelativeToolTip": "exception_user\\User.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T09:16:13.645Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_5_demo\\exceptions_types\\Program.cs",
-              "RelativeDocumentMoniker": "exceptions_types\\Program.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_5_demo\\exceptions_types\\Program.cs",
-              "RelativeToolTip": "exceptions_types\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwEwAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T09:02:41.099Z",
+              "WhenOpened": "2024-12-10T10:37:21.964Z",
               "EditorCaption": ""
             }
           ]
