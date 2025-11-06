@@ -10,11 +10,16 @@ class Program
 
     void Start()
     {
-        Employee jimmyJazz = new Employee() { FirstName = "Jimmy", LastName = "Jazz", Salary = 100000 };
+        // Demonstrating overriding ToString() method
+        // View the Employee class for implementation
+        Employee jimmyJazz = new Employee("Jimmy", "Jazz", 1000000);
 
-        // since the Employee class has an override `ToString()` method defined, we can 
-        Console.WriteLine(jimmyJazz);
-        // the following is equivalent
+        // We can explicitly invoke the ToString() method 
         Console.WriteLine(jimmyJazz.ToString());
+
+        // If we pass the object to Console.WriteLine, this method
+        //  will get invoked implicitly.
+        Console.WriteLine(jimmyJazz);
+        
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("srp_invoice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab83e05db81d5cf49e849decba0f63898cf32612")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+878e1d4498792c71eb2aa2355dde26123a647c59")]
 [assembly: System.Reflection.AssemblyProductAttribute("srp_invoice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("srp_invoice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

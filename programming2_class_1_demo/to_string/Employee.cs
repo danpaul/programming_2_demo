@@ -3,15 +3,34 @@ namespace to_string;
 
 public class Employee
 {
-    public string FirstName = "";
-    public string LastName = "";
+    public string FirstName
+    {
+        get;
+        private set;
+    }
+    public string LastName
+    {
+        get;
+        private set;
+    }
+    public decimal Salary
+    {
+        get;
+        private set;
+    }
 
-    public uint Salary = 0;
+    public Employee(string firstName, string lastName, decimal salary)
+    {
+        FirstName = firstName;
+        LastName = lastName;
+        Salary = salary;
+    }
 
-    // The override method is provide by a base class so we need to specify that we override this method
-    //public override string ToString()
-    //{
-    //    return $"{FirstName} {LastName}: {Salary}";
-    //}
+    // The ToString method is provided by a base class so we need to "override"
+    //  it and use the "override" declaratoin in our method signature.
+    public override string ToString()
+    {
+        return $"{FirstName} {LastName}: {Salary}";
+    }
 
 }
