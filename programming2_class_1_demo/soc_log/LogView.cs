@@ -1,28 +1,20 @@
 namespace soc_log;
 
-public class LogView(LogRepository logRepository)
+public class LogView()
 {
-    private LogRepository LogRepository { get; set; } = logRepository;
-
-    public void Display()
+    public bool ShouldContinue()
     {
-        string keepGoing;
-        do
-        {
-            Log log = GetNewLog();
-            LogRepository.Add(log);
-            DisplayLogs();
-            Console.Write("Continue (y/n)? ");
-            keepGoing = Console.ReadLine();
-        } while (keepGoing == "y");
+        Console.Write("Continue (y/n)? ");
+        string keepGoing = Console.ReadLine();
+        return keepGoing.ToLower() == "y";
     }
 
-    public void DisplayLogs()
+    public void DisplayLogs(Log[] logs, int numberOfLogs)
     {
         Console.WriteLine();
-        for (int i = LogRepository.Count - 1; i >= 0; i--)
+        for (int i = numberOfLogs - 1; i >= 0; i--)
         {
-            Log log = LogRepository.Logs[i];
+            Log log = logs[i];
             if (log.level == LogLevel.info)
             {
                 Console.ForegroundColor = ConsoleColor.Blue;

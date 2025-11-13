@@ -10,9 +10,14 @@ class Program
 
     void Start()
     {
-        // the log repository and log view are separate so that each manages only a single concern
         LogRepository logRepository = new LogRepository();
-        LogView logView = new LogView(logRepository);
-        logView.Display();
+        LogView logView = new LogView();
+
+        do
+        {
+            Log log = logView.GetNewLog();
+            logRepository.Add(log);
+            logView.DisplayLogs(logRepository.Logs, logRepository.Count);
+        } while (logView.ShouldContinue());
     }
 }

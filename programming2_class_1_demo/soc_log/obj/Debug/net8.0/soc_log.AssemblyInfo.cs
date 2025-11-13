@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("soc_log")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+878e1d4498792c71eb2aa2355dde26123a647c59")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eab6c5815f0430929c625d77d5063155154cdc8c")]
 [assembly: System.Reflection.AssemblyProductAttribute("soc_log")]
 [assembly: System.Reflection.AssemblyTitleAttribute("soc_log")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E522C586-26EC-41FE-984E-DE6A565B1670}|to_string\\to_string.csproj|c:\\code\\programming_2_demo\\programming2_class_1_demo\\to_string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E522C586-26EC-41FE-984E-DE6A565B1670}|to_string\\to_string.csproj|solutionrelative:to_string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF15393C-D58C-49CA-B7A9-A1AA7DAD40A7}|soc_log\\soc_log.csproj|c:\\code\\programming_2_demo\\programming2_class_1_demo\\soc_log\\logview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF15393C-D58C-49CA-B7A9-A1AA7DAD40A7}|soc_log\\soc_log.csproj|solutionrelative:soc_log\\logview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E522C586-26EC-41FE-984E-DE6A565B1670}|to_string\\to_string.csproj|c:\\code\\programming_2_demo\\programming2_class_1_demo\\to_string\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E522C586-26EC-41FE-984E-DE6A565B1670}|to_string\\to_string.csproj|solutionrelative:to_string\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF15393C-D58C-49CA-B7A9-A1AA7DAD40A7}|soc_log\\soc_log.csproj|c:\\code\\programming_2_demo\\programming2_class_1_demo\\soc_log\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF15393C-D58C-49CA-B7A9-A1AA7DAD40A7}|soc_log\\soc_log.csproj|solutionrelative:soc_log\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F3FB7D3-A166-4C17-AFCC-57C9F101F53C}|class_review\\class_review.csproj|c:\\code\\programming_2_demo\\programming2_class_1_demo\\class_review\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F3FB7D3-A166-4C17-AFCC-57C9F101F53C}|class_review\\class_review.csproj|solutionrelative:class_review\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF15393C-D58C-49CA-B7A9-A1AA7DAD40A7}|soc_log\\soc_log.csproj|c:\\code\\programming_2_demo\\programming2_class_1_demo\\soc_log\\logrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF15393C-D58C-49CA-B7A9-A1AA7DAD40A7}|soc_log\\soc_log.csproj|solutionrelative:soc_log\\logrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F3FB7D3-A166-4C17-AFCC-57C9F101F53C}|class_review\\class_review.csproj|c:\\code\\programming_2_demo\\programming2_class_1_demo\\class_review\\mymath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F3FB7D3-A166-4C17-AFCC-57C9F101F53C}|class_review\\class_review.csproj|solutionrelative:class_review\\mymath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F3FB7D3-A166-4C17-AFCC-57C9F101F53C}|class_review\\class_review.csproj|c:\\code\\programming_2_demo\\programming2_class_1_demo\\class_review\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F3FB7D3-A166-4C17-AFCC-57C9F101F53C}|class_review\\class_review.csproj|solutionrelative:class_review\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF15393C-D58C-49CA-B7A9-A1AA7DAD40A7}|soc_log\\soc_log.csproj|c:\\code\\programming_2_demo\\programming2_class_1_demo\\soc_log\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF15393C-D58C-49CA-B7A9-A1AA7DAD40A7}|soc_log\\soc_log.csproj|solutionrelative:soc_log\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +26,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\to_string\\Employee.cs",
-              "RelativeDocumentMoniker": "to_string\\Employee.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\to_string\\Employee.cs",
-              "RelativeToolTip": "to_string\\Employee.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAowBwAAABGAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Log.cs",
+              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\soc_log\\Log.cs",
+              "RelativeDocumentMoniker": "soc_log\\Log.cs",
+              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\soc_log\\Log.cs",
+              "RelativeToolTip": "soc_log\\Log.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T12:33:25.228Z",
+              "WhenOpened": "2025-11-10T13:13:45.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogRepository.cs",
+              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\soc_log\\LogRepository.cs",
+              "RelativeDocumentMoniker": "soc_log\\LogRepository.cs",
+              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\soc_log\\LogRepository.cs",
+              "RelativeToolTip": "soc_log\\LogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:08:12.511Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LogView.cs",
+              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\soc_log\\LogView.cs",
+              "RelativeDocumentMoniker": "soc_log\\LogView.cs",
+              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\soc_log\\LogView.cs",
+              "RelativeToolTip": "soc_log\\LogView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:07:57.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\to_string\\Program.cs",
-              "RelativeDocumentMoniker": "to_string\\Program.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\to_string\\Program.cs",
-              "RelativeToolTip": "to_string\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\soc_log\\Program.cs",
+              "RelativeDocumentMoniker": "soc_log\\Program.cs",
+              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\soc_log\\Program.cs",
+              "RelativeToolTip": "soc_log\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T12:33:11.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MyMath.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\class_review\\MyMath.cs",
-              "RelativeDocumentMoniker": "class_review\\MyMath.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\class_review\\MyMath.cs",
-              "RelativeToolTip": "class_review\\MyMath.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T12:26:03.091Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\class_review\\Player.cs",
-              "RelativeDocumentMoniker": "class_review\\Player.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\class_review\\Player.cs",
-              "RelativeToolTip": "class_review\\Player.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAuwDkAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T12:10:49.537Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\class_review\\Program.cs",
-              "RelativeDocumentMoniker": "class_review\\Program.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_1_demo\\class_review\\Program.cs",
-              "RelativeToolTip": "class_review\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T12:10:06.664Z",
+              "WhenOpened": "2025-11-10T13:07:47.599Z",
               "EditorCaption": ""
             }
           ]
