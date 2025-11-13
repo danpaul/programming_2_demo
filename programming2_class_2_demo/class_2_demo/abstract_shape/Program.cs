@@ -10,6 +10,9 @@
 
         public void Start()
         {
+            // Review the abstract Shape class in ./Shape.cs
+            // Review the derived classes (Circle, Square)
+
             // create a Square object which inherits from abstract base class Shape
             Square square = new Square(10, 20, 10);
 

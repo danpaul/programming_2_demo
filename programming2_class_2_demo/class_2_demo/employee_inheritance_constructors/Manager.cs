@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿
 namespace employee_inheritance_constructors
 {
     // Manager inherits from Employee which inherits from Person
@@ -20,6 +15,10 @@ namespace employee_inheritance_constructors
         // pass all constructor paramters through to the base class (Employee)
         ) : base(firstName, lastName, dateOfBirth, department, salary, employeeID)
         { }
+        public void HireEmployee(Employee employee)
+        {
+            Console.WriteLine("Congratulations, you got the job!");
+        }
 
         // since we are overriding the inherited method, we must use
         //  use the override keywokd

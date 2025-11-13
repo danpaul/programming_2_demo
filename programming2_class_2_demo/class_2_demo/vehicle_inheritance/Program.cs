@@ -19,6 +19,8 @@
                 // set field unique to Truck class
                 CargoCapacity = 7500
             };
+
+            Console.WriteLine(truck);
         }
     }
 }

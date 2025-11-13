@@ -10,5 +10,13 @@ namespace employee_inheritance
     {
         public string FirstName, LastName;
         public DateTime DateOfBirth;
+
+
+        // define an override ToString() method listing basic person info
+        public override string ToString()
+        {
+            return $"Name: {LastName}, {FirstName}; DOB: {DateOfBirth}";
+        }
     }
+
 }

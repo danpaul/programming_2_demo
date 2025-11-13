@@ -47,7 +47,7 @@ namespace employee_inheritance_constructors
             // update employe salary
             manager.IncreaseSalary(10000);
 
-            // display salarys
+            // display salaries
             employee.DisplaySalary();
             manager.DisplaySalary();
         }

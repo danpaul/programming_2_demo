@@ -10,5 +10,10 @@ namespace vehicle_inheritance
     {
         public double FuelCapacity;
         public double TopSpeed;
+
+        public override string ToString()
+        {
+            return $"Fuel Capacity: {FuelCapacity}; Top Speed: {TopSpeed}";
+        }
     }
 }

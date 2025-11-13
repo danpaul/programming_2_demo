@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿
 namespace vehicle_inheritance
 {
     // Truck inherits from Vehicle, so it will inherit the
@@ -12,5 +7,11 @@ namespace vehicle_inheritance
     internal class Truck : Vehicle
     {
         public double CargoCapacity;
+
+        // call parent class (Vehicle) ToString() method from child class
+        public override string ToString()
+        {
+            return $"{base.ToString()}; Cargo Capacity: {CargoCapacity}";
+        }
     }
 }

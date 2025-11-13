@@ -31,6 +31,10 @@
                 EmployeeID = 123
             };
 
+            // write the objects - this automatically class the ToString() methods
+            Console.WriteLine(person);
+            Console.WriteLine(employee);
+
         }
     }
 }
