@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Code\\programming_2_demo\\week_3\\",
+  "WorkspaceRootPath": "C:\\Code\\programming_2_demo\\programming2_class_3_demo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51154231-004A-40E2-99BD-C8ABF9CF1EBA}|interface_log\\interface_log.csproj|c:\\code\\programming_2_demo\\week_3\\interface_log\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51154231-004A-40E2-99BD-C8ABF9CF1EBA}|interface_log\\interface_log.csproj|solutionrelative:interface_log\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB7B24CB-4058-44D3-8883-AD5CAA488A13}|polymorphism_vehicle\\polymorphism_vehicle.csproj|c:\\code\\programming_2_demo\\programming2_class_3_demo\\polymorphism_vehicle\\vehiclemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7B24CB-4058-44D3-8883-AD5CAA488A13}|polymorphism_vehicle\\polymorphism_vehicle.csproj|solutionrelative:polymorphism_vehicle\\vehiclemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51154231-004A-40E2-99BD-C8ABF9CF1EBA}|interface_log\\interface_log.csproj|c:\\code\\programming_2_demo\\week_3\\interface_log\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51154231-004A-40E2-99BD-C8ABF9CF1EBA}|interface_log\\interface_log.csproj|solutionrelative:interface_log\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB7B24CB-4058-44D3-8883-AD5CAA488A13}|polymorphism_vehicle\\polymorphism_vehicle.csproj|c:\\code\\programming_2_demo\\programming2_class_3_demo\\polymorphism_vehicle\\iserviceable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7B24CB-4058-44D3-8883-AD5CAA488A13}|polymorphism_vehicle\\polymorphism_vehicle.csproj|solutionrelative:polymorphism_vehicle\\iserviceable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51154231-004A-40E2-99BD-C8ABF9CF1EBA}|interface_log\\interface_log.csproj|c:\\code\\programming_2_demo\\week_3\\interface_log\\iloggable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51154231-004A-40E2-99BD-C8ABF9CF1EBA}|interface_log\\interface_log.csproj|solutionrelative:interface_log\\iloggable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB7B24CB-4058-44D3-8883-AD5CAA488A13}|polymorphism_vehicle\\polymorphism_vehicle.csproj|c:\\code\\programming_2_demo\\programming2_class_3_demo\\polymorphism_vehicle\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7B24CB-4058-44D3-8883-AD5CAA488A13}|polymorphism_vehicle\\polymorphism_vehicle.csproj|solutionrelative:polymorphism_vehicle\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3471B439-6DDC-49DB-8BFB-36F81C3B7CF6}|interface_animals\\interface_animals.csproj|c:\\code\\programming_2_demo\\week_3\\interface_animals\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3471B439-6DDC-49DB-8BFB-36F81C3B7CF6}|interface_animals\\interface_animals.csproj|solutionrelative:interface_animals\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB7B24CB-4058-44D3-8883-AD5CAA488A13}|polymorphism_vehicle\\polymorphism_vehicle.csproj|c:\\code\\programming_2_demo\\programming2_class_3_demo\\polymorphism_vehicle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7B24CB-4058-44D3-8883-AD5CAA488A13}|polymorphism_vehicle\\polymorphism_vehicle.csproj|solutionrelative:polymorphism_vehicle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7B24CB-4058-44D3-8883-AD5CAA488A13}|polymorphism_vehicle\\polymorphism_vehicle.csproj|c:\\code\\programming_2_demo\\programming2_class_3_demo\\polymorphism_vehicle\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7B24CB-4058-44D3-8883-AD5CAA488A13}|polymorphism_vehicle\\polymorphism_vehicle.csproj|solutionrelative:polymorphism_vehicle\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Dog.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\week_3\\interface_animals\\Dog.cs",
-              "RelativeDocumentMoniker": "interface_animals\\Dog.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\week_3\\interface_animals\\Dog.cs",
-              "RelativeToolTip": "interface_animals\\Dog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T10:59:13.289Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ILoggable.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\week_3\\interface_log\\ILoggable.cs",
-              "RelativeDocumentMoniker": "interface_log\\ILoggable.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\week_3\\interface_log\\ILoggable.cs",
-              "RelativeToolTip": "interface_log\\ILoggable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T10:52:15.617Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\week_3\\interface_log\\Program.cs",
-              "RelativeDocumentMoniker": "interface_log\\Program.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\week_3\\interface_log\\Program.cs",
-              "RelativeToolTip": "interface_log\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Title": "VehicleManager.cs",
+              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_3_demo\\polymorphism_vehicle\\VehicleManager.cs",
+              "RelativeDocumentMoniker": "polymorphism_vehicle\\VehicleManager.cs",
+              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_3_demo\\polymorphism_vehicle\\VehicleManager.cs",
+              "RelativeToolTip": "polymorphism_vehicle\\VehicleManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T10:47:16.32Z",
+              "WhenOpened": "2025-11-24T10:11:54.82Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Logger.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\week_3\\interface_log\\Logger.cs",
-              "RelativeDocumentMoniker": "interface_log\\Logger.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\week_3\\interface_log\\Logger.cs",
-              "RelativeToolTip": "interface_log\\Logger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Title": "IServiceable.cs",
+              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_3_demo\\polymorphism_vehicle\\IServiceable.cs",
+              "RelativeDocumentMoniker": "polymorphism_vehicle\\IServiceable.cs",
+              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_3_demo\\polymorphism_vehicle\\IServiceable.cs",
+              "RelativeToolTip": "polymorphism_vehicle\\IServiceable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T10:44:59.973Z",
+              "WhenOpened": "2025-11-24T10:06:54.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_3_demo\\polymorphism_vehicle\\Vehicle.cs",
+              "RelativeDocumentMoniker": "polymorphism_vehicle\\Vehicle.cs",
+              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_3_demo\\polymorphism_vehicle\\Vehicle.cs",
+              "RelativeToolTip": "polymorphism_vehicle\\Vehicle.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T10:05:49.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_3_demo\\polymorphism_vehicle\\Car.cs",
+              "RelativeDocumentMoniker": "polymorphism_vehicle\\Car.cs",
+              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_3_demo\\polymorphism_vehicle\\Car.cs",
+              "RelativeToolTip": "polymorphism_vehicle\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T10:06:27.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_3_demo\\polymorphism_vehicle\\Program.cs",
+              "RelativeDocumentMoniker": "polymorphism_vehicle\\Program.cs",
+              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_3_demo\\polymorphism_vehicle\\Program.cs",
+              "RelativeToolTip": "polymorphism_vehicle\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T10:06:03.741Z",
               "EditorCaption": ""
             }
           ]

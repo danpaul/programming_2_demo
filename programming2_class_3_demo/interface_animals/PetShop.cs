@@ -16,7 +16,7 @@ namespace interface_animals
             }
             else
             {
-                return new Dog(5, true);
+                return new Dog(5, random.Next(0, 2) == 1);
             }
         }
     }

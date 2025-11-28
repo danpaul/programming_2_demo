@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿
 namespace interface_log
 {
     internal class User : ILoggable
@@ -23,7 +18,7 @@ namespace interface_log
 
         public string GetLogMessage() // required by ILoggable
         {
-            return $"User name: {FirstName} {LastName}";
+            return $"ID: {ID}, Created: {Created}, User name: {FirstName} {LastName}";
         }
 
     }

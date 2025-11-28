@@ -11,6 +11,7 @@
         void Start()
         {
             // create a new Truck which inherits from Vehicle
+
             Truck truck = new Truck()
             {
                 // set fields derived from base Vehicle class

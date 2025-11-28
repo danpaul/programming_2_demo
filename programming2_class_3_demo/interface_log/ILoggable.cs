@@ -1,7 +1,7 @@
 ﻿
 namespace interface_log
 {
-    internal interface ILoggable
+    public interface ILoggable
     {
         int ID { get; }
         DateTime Created { get; }

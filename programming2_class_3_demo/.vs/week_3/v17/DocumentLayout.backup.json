@@ -1,18 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Code\\programming_2_demo\\week_3\\",
+  "WorkspaceRootPath": "C:\\Code\\programming_2_demo\\programming2_class_3_demo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51154231-004A-40E2-99BD-C8ABF9CF1EBA}|interface_log\\interface_log.csproj|c:\\code\\programming_2_demo\\week_3\\interface_log\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{51154231-004A-40E2-99BD-C8ABF9CF1EBA}|interface_log\\interface_log.csproj|c:\\code\\programming_2_demo\\programming2_class_3_demo\\interface_log\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51154231-004A-40E2-99BD-C8ABF9CF1EBA}|interface_log\\interface_log.csproj|solutionrelative:interface_log\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51154231-004A-40E2-99BD-C8ABF9CF1EBA}|interface_log\\interface_log.csproj|c:\\code\\programming_2_demo\\week_3\\interface_log\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{51154231-004A-40E2-99BD-C8ABF9CF1EBA}|interface_log\\interface_log.csproj|c:\\code\\programming_2_demo\\programming2_class_3_demo\\interface_log\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51154231-004A-40E2-99BD-C8ABF9CF1EBA}|interface_log\\interface_log.csproj|solutionrelative:interface_log\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51154231-004A-40E2-99BD-C8ABF9CF1EBA}|interface_log\\interface_log.csproj|c:\\code\\programming_2_demo\\week_3\\interface_log\\iloggable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{51154231-004A-40E2-99BD-C8ABF9CF1EBA}|interface_log\\interface_log.csproj|c:\\code\\programming_2_demo\\programming2_class_3_demo\\interface_log\\iloggable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51154231-004A-40E2-99BD-C8ABF9CF1EBA}|interface_log\\interface_log.csproj|solutionrelative:interface_log\\iloggable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51154231-004A-40E2-99BD-C8ABF9CF1EBA}|interface_log\\interface_log.csproj|c:\\code\\programming_2_demo\\programming2_class_3_demo\\interface_log\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51154231-004A-40E2-99BD-C8ABF9CF1EBA}|interface_log\\interface_log.csproj|solutionrelative:interface_log\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51154231-004A-40E2-99BD-C8ABF9CF1EBA}|interface_log\\interface_log.csproj|c:\\code\\programming_2_demo\\programming2_class_3_demo\\interface_log\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51154231-004A-40E2-99BD-C8ABF9CF1EBA}|interface_log\\interface_log.csproj|solutionrelative:interface_log\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,41 +34,68 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ILoggable.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\week_3\\interface_log\\ILoggable.cs",
-              "RelativeDocumentMoniker": "interface_log\\ILoggable.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\week_3\\interface_log\\ILoggable.cs",
-              "RelativeToolTip": "interface_log\\ILoggable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_3_demo\\interface_log\\User.cs",
+              "RelativeDocumentMoniker": "interface_log\\User.cs",
+              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_3_demo\\interface_log\\User.cs*",
+              "RelativeToolTip": "interface_log\\User.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T10:52:15.617Z",
+              "WhenOpened": "2025-11-24T09:40:49.308Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\week_3\\interface_log\\Program.cs",
+              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_3_demo\\interface_log\\Program.cs",
               "RelativeDocumentMoniker": "interface_log\\Program.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\week_3\\interface_log\\Program.cs",
+              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_3_demo\\interface_log\\Program.cs",
               "RelativeToolTip": "interface_log\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAowCIAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwCUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T10:47:16.32Z",
+              "WhenOpened": "2025-11-24T09:42:01.162Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Logger.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\week_3\\interface_log\\Logger.cs",
+              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_3_demo\\interface_log\\Logger.cs",
               "RelativeDocumentMoniker": "interface_log\\Logger.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\week_3\\interface_log\\Logger.cs",
+              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_3_demo\\interface_log\\Logger.cs",
               "RelativeToolTip": "interface_log\\Logger.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T10:44:59.973Z",
+              "WhenOpened": "2025-11-24T09:40:58.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_3_demo\\interface_log\\Order.cs",
+              "RelativeDocumentMoniker": "interface_log\\Order.cs",
+              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_3_demo\\interface_log\\Order.cs",
+              "RelativeToolTip": "interface_log\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:40:53.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ILoggable.cs",
+              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_3_demo\\interface_log\\ILoggable.cs",
+              "RelativeDocumentMoniker": "interface_log\\ILoggable.cs",
+              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_3_demo\\interface_log\\ILoggable.cs",
+              "RelativeToolTip": "interface_log\\ILoggable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:40:46.094Z",
               "EditorCaption": ""
             }
           ]

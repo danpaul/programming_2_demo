@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            // keyListMethodsAndProperties();
+            keyListMethodsAndProperties();
             additionalListMethodsAndProperties();
 
         }
@@ -29,7 +29,7 @@
             Console.WriteLine($"The list has {list.Count} elements\n");
 
             // read a list element using square bracket (array) syntax
-            Console.WriteLine($"The first element of the list is: {list[list.Count]}\n");
+            Console.WriteLine($"The first element of the list is: {list[list.Count - 1]}\n");
 
             // update a list element
             Console.WriteLine("Updating the 4th element (at index 3) to 44");

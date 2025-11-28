@@ -33,6 +33,8 @@ namespace employee_inheritance_constructors
             Department = department;
             Salary = salary;
             EmployeeID = employeeID;
+
+            // FirstName = firstName;
         }
 
         // create a method which can be overriden (redefined) in the derived

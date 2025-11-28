@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CE222B1C-C884-43E8-A13C-BA7FE7C98438}|abstract_shape\\abstract_shape.csproj|c:\\code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\abstract_shape\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE222B1C-C884-43E8-A13C-BA7FE7C98438}|abstract_shape\\abstract_shape.csproj|solutionrelative:abstract_shape\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE222B1C-C884-43E8-A13C-BA7FE7C98438}|abstract_shape\\abstract_shape.csproj|c:\\code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\abstract_shape\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE222B1C-C884-43E8-A13C-BA7FE7C98438}|abstract_shape\\abstract_shape.csproj|solutionrelative:abstract_shape\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CE222B1C-C884-43E8-A13C-BA7FE7C98438}|abstract_shape\\abstract_shape.csproj|c:\\code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\abstract_shape\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE222B1C-C884-43E8-A13C-BA7FE7C98438}|abstract_shape\\abstract_shape.csproj|solutionrelative:abstract_shape\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,48 +11,12 @@
       "RelativeMoniker": "D:0:0:{CE222B1C-C884-43E8-A13C-BA7FE7C98438}|abstract_shape\\abstract_shape.csproj|solutionrelative:abstract_shape\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6ED6A7C-6FAB-453E-B126-26E3E2FBCF59}|employee_inheritance\\employee_inheritance.csproj|c:\\code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\employee_inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6ED6A7C-6FAB-453E-B126-26E3E2FBCF59}|employee_inheritance\\employee_inheritance.csproj|solutionrelative:employee_inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CE222B1C-C884-43E8-A13C-BA7FE7C98438}|abstract_shape\\abstract_shape.csproj|c:\\code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\abstract_shape\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE222B1C-C884-43E8-A13C-BA7FE7C98438}|abstract_shape\\abstract_shape.csproj|solutionrelative:abstract_shape\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D40FBA17-C167-4A03-B43B-7897A5674247}|employee_inheritance_constructors\\employee_inheritance_constructors.csproj|c:\\code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\employee_inheritance_constructors\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D40FBA17-C167-4A03-B43B-7897A5674247}|employee_inheritance_constructors\\employee_inheritance_constructors.csproj|solutionrelative:employee_inheritance_constructors\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D40FBA17-C167-4A03-B43B-7897A5674247}|employee_inheritance_constructors\\employee_inheritance_constructors.csproj|c:\\code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\employee_inheritance_constructors\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D40FBA17-C167-4A03-B43B-7897A5674247}|employee_inheritance_constructors\\employee_inheritance_constructors.csproj|solutionrelative:employee_inheritance_constructors\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D40FBA17-C167-4A03-B43B-7897A5674247}|employee_inheritance_constructors\\employee_inheritance_constructors.csproj|c:\\code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\employee_inheritance_constructors\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D40FBA17-C167-4A03-B43B-7897A5674247}|employee_inheritance_constructors\\employee_inheritance_constructors.csproj|solutionrelative:employee_inheritance_constructors\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CC53E4D-6AF6-4CC0-8FF8-1459BBD83336}|vehicle_inheritance_constructors\\vehicle_inheritance_constructors.csproj|c:\\code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\vehicle_inheritance_constructors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CC53E4D-6AF6-4CC0-8FF8-1459BBD83336}|vehicle_inheritance_constructors\\vehicle_inheritance_constructors.csproj|solutionrelative:vehicle_inheritance_constructors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D40FBA17-C167-4A03-B43B-7897A5674247}|employee_inheritance_constructors\\employee_inheritance_constructors.csproj|c:\\code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\employee_inheritance_constructors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D40FBA17-C167-4A03-B43B-7897A5674247}|employee_inheritance_constructors\\employee_inheritance_constructors.csproj|solutionrelative:employee_inheritance_constructors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFB23108-0B03-48EB-8DE2-7BA4F1BED02E}|vehicle_inheritance\\vehicle_inheritance.csproj|c:\\code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\vehicle_inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFB23108-0B03-48EB-8DE2-7BA4F1BED02E}|vehicle_inheritance\\vehicle_inheritance.csproj|solutionrelative:vehicle_inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFB23108-0B03-48EB-8DE2-7BA4F1BED02E}|vehicle_inheritance\\vehicle_inheritance.csproj|c:\\code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\vehicle_inheritance\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFB23108-0B03-48EB-8DE2-7BA4F1BED02E}|vehicle_inheritance\\vehicle_inheritance.csproj|solutionrelative:vehicle_inheritance\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFB23108-0B03-48EB-8DE2-7BA4F1BED02E}|vehicle_inheritance\\vehicle_inheritance.csproj|c:\\code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\vehicle_inheritance\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFB23108-0B03-48EB-8DE2-7BA4F1BED02E}|vehicle_inheritance\\vehicle_inheritance.csproj|solutionrelative:vehicle_inheritance\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6ED6A7C-6FAB-453E-B126-26E3E2FBCF59}|employee_inheritance\\employee_inheritance.csproj|c:\\code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\employee_inheritance\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6ED6A7C-6FAB-453E-B126-26E3E2FBCF59}|employee_inheritance\\employee_inheritance.csproj|solutionrelative:employee_inheritance\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6ED6A7C-6FAB-453E-B126-26E3E2FBCF59}|employee_inheritance\\employee_inheritance.csproj|c:\\code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\employee_inheritance\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6ED6A7C-6FAB-453E-B126-26E3E2FBCF59}|employee_inheritance\\employee_inheritance.csproj|solutionrelative:employee_inheritance\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CE222B1C-C884-43E8-A13C-BA7FE7C98438}|abstract_shape\\abstract_shape.csproj|c:\\code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\abstract_shape\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE222B1C-C884-43E8-A13C-BA7FE7C98438}|abstract_shape\\abstract_shape.csproj|solutionrelative:abstract_shape\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,201 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Square.cs",
               "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\abstract_shape\\Square.cs",
               "RelativeDocumentMoniker": "abstract_shape\\Square.cs",
               "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\abstract_shape\\Square.cs",
               "RelativeToolTip": "abstract_shape\\Square.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T08:36:00.185Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Circle.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\abstract_shape\\Circle.cs",
-              "RelativeDocumentMoniker": "abstract_shape\\Circle.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\abstract_shape\\Circle.cs",
-              "RelativeToolTip": "abstract_shape\\Circle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T08:35:08.15Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Shape.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\abstract_shape\\Shape.cs",
-              "RelativeDocumentMoniker": "abstract_shape\\Shape.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\abstract_shape\\Shape.cs",
-              "RelativeToolTip": "abstract_shape\\Shape.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T08:33:20.642Z",
+              "WhenOpened": "2025-11-17T10:13:11.112Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\abstract_shape\\Circle.cs",
+              "RelativeDocumentMoniker": "abstract_shape\\Circle.cs",
+              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\abstract_shape\\Circle.cs",
+              "RelativeToolTip": "abstract_shape\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:11:38.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\abstract_shape\\Shape.cs",
+              "RelativeDocumentMoniker": "abstract_shape\\Shape.cs",
+              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\abstract_shape\\Shape.cs",
+              "RelativeToolTip": "abstract_shape\\Shape.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:09:49.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\abstract_shape\\Program.cs",
               "RelativeDocumentMoniker": "abstract_shape\\Program.cs",
               "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\abstract_shape\\Program.cs",
               "RelativeToolTip": "abstract_shape\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T08:33:05.818Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\vehicle_inheritance_constructors\\Program.cs",
-              "RelativeDocumentMoniker": "vehicle_inheritance_constructors\\Program.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\vehicle_inheritance_constructors\\Program.cs",
-              "RelativeToolTip": "vehicle_inheritance_constructors\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T08:25:58.288Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Manager.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\employee_inheritance_constructors\\Manager.cs",
-              "RelativeDocumentMoniker": "employee_inheritance_constructors\\Manager.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\employee_inheritance_constructors\\Manager.cs",
-              "RelativeToolTip": "employee_inheritance_constructors\\Manager.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T08:24:50.203Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\employee_inheritance_constructors\\Employee.cs",
-              "RelativeDocumentMoniker": "employee_inheritance_constructors\\Employee.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\employee_inheritance_constructors\\Employee.cs",
-              "RelativeToolTip": "employee_inheritance_constructors\\Employee.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T08:24:17.596Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\employee_inheritance_constructors\\Person.cs",
-              "RelativeDocumentMoniker": "employee_inheritance_constructors\\Person.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\employee_inheritance_constructors\\Person.cs",
-              "RelativeToolTip": "employee_inheritance_constructors\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T08:23:52.283Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\employee_inheritance_constructors\\Program.cs",
-              "RelativeDocumentMoniker": "employee_inheritance_constructors\\Program.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\employee_inheritance_constructors\\Program.cs",
-              "RelativeToolTip": "employee_inheritance_constructors\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T08:23:03.192Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Truck.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\vehicle_inheritance\\Truck.cs",
-              "RelativeDocumentMoniker": "vehicle_inheritance\\Truck.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\vehicle_inheritance\\Truck.cs",
-              "RelativeToolTip": "vehicle_inheritance\\Truck.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T08:18:45.558Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Vehicle.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\vehicle_inheritance\\Vehicle.cs",
-              "RelativeDocumentMoniker": "vehicle_inheritance\\Vehicle.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\vehicle_inheritance\\Vehicle.cs",
-              "RelativeToolTip": "vehicle_inheritance\\Vehicle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T08:18:38.211Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\vehicle_inheritance\\Program.cs",
-              "RelativeDocumentMoniker": "vehicle_inheritance\\Program.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\vehicle_inheritance\\Program.cs",
-              "RelativeToolTip": "vehicle_inheritance\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T08:18:22.38Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\employee_inheritance\\Person.cs",
-              "RelativeDocumentMoniker": "employee_inheritance\\Person.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\employee_inheritance\\Person.cs",
-              "RelativeToolTip": "employee_inheritance\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T08:10:09.656Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\employee_inheritance\\Employee.cs",
-              "RelativeDocumentMoniker": "employee_inheritance\\Employee.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\employee_inheritance\\Employee.cs",
-              "RelativeToolTip": "employee_inheritance\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T08:09:28.294Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\employee_inheritance\\Program.cs",
-              "RelativeDocumentMoniker": "employee_inheritance\\Program.cs",
-              "ToolTip": "C:\\Code\\programming_2_demo\\programming2_class_2_demo\\class_2_demo\\employee_inheritance\\Program.cs",
-              "RelativeToolTip": "employee_inheritance\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T08:08:56.324Z",
+              "WhenOpened": "2025-11-17T10:09:37.043Z",
               "EditorCaption": ""
             }
           ]

@@ -18,6 +18,8 @@
                 DateOfBirth = new DateTime(1970, 1, 1)
             };
 
+            // person.Department;
+
             // create a new Employee object and set fields
             Employee employee = new Employee()
             {
@@ -30,6 +32,10 @@
                 Salary = 1000000,
                 EmployeeID = 123
             };
+
+            // employee.
+
+            // employee.FirstName = "Jill"
 
             // write the objects - this automatically class the ToString() methods
             Console.WriteLine(person);
