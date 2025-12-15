@@ -13,15 +13,15 @@ namespace array_list
         void Start()
         {
             // DON'T USE THIS!!! ArrayList is an outdated data structure
-            ArrayList list = new ArrayList();
-            list.Add(1);
-            list.Add(2);
-            list.Add("3"); // inconsistent data type
+            //ArrayList list = new ArrayList();
+            //list.Add(1);
+            //list.Add(2);
+            //list.Add("3"); // inconsistent data type
 
-            foreach (int i in list) // runtime error!
-            {
-                Console.WriteLine(i);
-            }
+            //foreach (int i in list) // runtime error!
+            //{
+            //    Console.WriteLine(i);
+            //}
 
             // List is typed
             List<int> list2 = new List<int>();

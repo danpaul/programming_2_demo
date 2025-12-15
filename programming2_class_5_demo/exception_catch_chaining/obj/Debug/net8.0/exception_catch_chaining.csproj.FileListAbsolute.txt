@@ -1,0 +1,15 @@
+C:\Code\programming_2_demo\programming2_class_5_demo\exception_catch_chaining\bin\Debug\net8.0\exception_catch_chaining.exe
+C:\Code\programming_2_demo\programming2_class_5_demo\exception_catch_chaining\bin\Debug\net8.0\exception_catch_chaining.deps.json
+C:\Code\programming_2_demo\programming2_class_5_demo\exception_catch_chaining\bin\Debug\net8.0\exception_catch_chaining.runtimeconfig.json
+C:\Code\programming_2_demo\programming2_class_5_demo\exception_catch_chaining\bin\Debug\net8.0\exception_catch_chaining.dll
+C:\Code\programming_2_demo\programming2_class_5_demo\exception_catch_chaining\bin\Debug\net8.0\exception_catch_chaining.pdb
+C:\Code\programming_2_demo\programming2_class_5_demo\exception_catch_chaining\obj\Debug\net8.0\exception_catch_chaining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\programming_2_demo\programming2_class_5_demo\exception_catch_chaining\obj\Debug\net8.0\exception_catch_chaining.AssemblyInfoInputs.cache
+C:\Code\programming_2_demo\programming2_class_5_demo\exception_catch_chaining\obj\Debug\net8.0\exception_catch_chaining.AssemblyInfo.cs
+C:\Code\programming_2_demo\programming2_class_5_demo\exception_catch_chaining\obj\Debug\net8.0\exception_catch_chaining.csproj.CoreCompileInputs.cache
+C:\Code\programming_2_demo\programming2_class_5_demo\exception_catch_chaining\obj\Debug\net8.0\exception_catch_chaining.sourcelink.json
+C:\Code\programming_2_demo\programming2_class_5_demo\exception_catch_chaining\obj\Debug\net8.0\exception_catch_chaining.dll
+C:\Code\programming_2_demo\programming2_class_5_demo\exception_catch_chaining\obj\Debug\net8.0\refint\exception_catch_chaining.dll
+C:\Code\programming_2_demo\programming2_class_5_demo\exception_catch_chaining\obj\Debug\net8.0\exception_catch_chaining.pdb
+C:\Code\programming_2_demo\programming2_class_5_demo\exception_catch_chaining\obj\Debug\net8.0\exception_catch_chaining.genruntimeconfig.cache
+C:\Code\programming_2_demo\programming2_class_5_demo\exception_catch_chaining\obj\Debug\net8.0\ref\exception_catch_chaining.dll

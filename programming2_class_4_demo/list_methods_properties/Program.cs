@@ -21,6 +21,7 @@
             // add additional elements to list
             Console.WriteLine("Adding 10, 20, 30, 40 to the list");
             list.Add(10);
+            //
             list.Add(20);
             list.Add(30);
             list.Add(40);
@@ -29,11 +30,12 @@
             Console.WriteLine($"The list has {list.Count} elements\n");
 
             // read a list element using square bracket (array) syntax
-            Console.WriteLine($"The first element of the list is: {list[list.Count - 1]}\n");
+            Console.WriteLine($"The last element of the list is: {list[list.Count - 1]}\n");
 
             // update a list element
             Console.WriteLine("Updating the 4th element (at index 3) to 44");
             list[3] = 44;
+       
 
             // check if list contains an element
             bool listContains44 = list.Contains(44);

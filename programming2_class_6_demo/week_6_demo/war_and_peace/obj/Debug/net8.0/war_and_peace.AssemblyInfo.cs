@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("war_and_peace")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+345835f635da699460aa0f3a62c90072cb7c0587")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3eb19397d15201b8bf5d629690025f1d8489be6a")]
 [assembly: System.Reflection.AssemblyProductAttribute("war_and_peace")]
 [assembly: System.Reflection.AssemblyTitleAttribute("war_and_peace")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

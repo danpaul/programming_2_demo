@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dictionary_phonebook")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff305344e97aff7ddb647afccfd878905cd21c71")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3eb19397d15201b8bf5d629690025f1d8489be6a")]
 [assembly: System.Reflection.AssemblyProductAttribute("dictionary_phonebook")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dictionary_phonebook")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

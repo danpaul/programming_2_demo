@@ -26,13 +26,13 @@
             streamReader.Close();
 
             // equivalent to above but does not requre closing the StreamReader
-            using (StreamReader streamReader2 = new StreamReader(file)) {
-                while (!streamReader2.EndOfStream)
-                {
-                    string line = streamReader2.ReadLine();
-                    Console.WriteLine(line);
-                }
-            }
+            //using (StreamReader streamReader2 = new StreamReader(file)) {
+            //    while (!streamReader2.EndOfStream)
+            //    {
+            //        string line = streamReader2.ReadLine();
+            //        Console.WriteLine(line);
+            //    }
+            //}
         }
 
         void Misread()

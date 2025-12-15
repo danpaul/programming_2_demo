@@ -10,7 +10,7 @@
             while (true)
             {
                 Console.WriteLine("\nPhone Book Menu:");
-                Console.WriteLine("1. Add Contact");
+                Console.WriteLine("1. Add/Update Contact");
                 Console.WriteLine("2. Find Contact");
                 Console.WriteLine("3. Display All Contacts");
                 Console.WriteLine("4. Remove Contact");
@@ -27,6 +27,7 @@
                         Console.Write("Enter phone number: ");
                         string phone = Console.ReadLine();
 
+                        // phoneBook.Add(name, phone);
                         phoneBook[name] = phone; // Add or update contact
                         Console.WriteLine($"Contact {name} added/updated.");
                         break;
